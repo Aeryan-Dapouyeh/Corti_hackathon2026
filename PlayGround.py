@@ -12,7 +12,7 @@ import sounddevice as sd
 import websocket
 from dotenv import load_dotenv
 from scipy.io.wavfile import write
-from Utils import extract_facts, insert_corti_data_into_tables, predict_codes, get_access_token, codes_to_dataframe, read_patient_journal, generate_text_from_journal, dictate_patient_journal, extractFacts, extractCodes
+from Utils import extract_facts, insert_corti_data_into_tables, predict_codes, get_access_token, codes_to_dataframe, read_patient_journal, generate_text_from_journal, dictate_patient_journal, extractFacts, extractCodes, generate_patient_timeline
 
 
 print("Hello world!")
@@ -57,6 +57,10 @@ if __name__ == "__main__":
     ####### To Insert Data into Tables #######
     # generated_tables = insert_corti_data_into_tables(data_dir="Data", output_dir="GeneratedData", facts_path="facts.csv", codes_path="medical_codes.csv", encounter_key="E0001")
 
+
+    df_timeline = generate_patient_timeline(data_dir="Data")
+
+    print(df_timeline)
 
 
 

@@ -1507,6 +1507,237 @@ def insert_corti_data_into_tables(
 
 
 
+def generate_patient_timeline(
+    data_dir,
+    output_filename="PatientTimeline.csv",
+):
+    data_dir = Path(data_dir)
+
+    timeline_parts = []
+
+    def load_table(name):
+        path = data_dir / f"{name}.csv"
+
+        if path.exists():
+            return pd.read_csv(path)
+
+        # Also supports names such as Vitals(1).csv
+        matches = list(data_dir.glob(f"{name}*.csv"))
+
+        if matches:
+            return pd.read_csv(matches[0])
+
+        return None
+
+    # ========================================================
+    # Population
+    # Used to determine encounter start times for diagnoses
+    # ========================================================
+
+    population = load_table("Population")
+
+    # ========================================================
+    # VITALS
+    # ========================================================
+
+    df = load_table("Vitals")
+
+    if df is not None:
+
+        part = pd.DataFrame({
+            "EncounterKey": df["EncounterKey"],
+            "EventTime": df["TakenInstant"],
+            "SourceTable": "Vitals",
+            "EventType": df["MeasurementType"],
+            "Value": df["NumericValue"],
+            "Unit": df["Unit"],
+        })
+
+        timeline_parts.append(part)
+
+    # ========================================================
+    # BLOOD TESTS
+    # ========================================================
+
+    df = load_table("Bloodtests")
+
+    if df is not None:
+
+        part = pd.DataFrame({
+            "EncounterKey": df["EncounterKey"],
+            "EventTime": df["CollectionInstant"],
+            "SourceTable": "Bloodtests",
+            "EventType": df["ComponentName"],
+            "Value": df["NumericValue"],
+            "Unit": df["Unit"],
+        })
+
+        timeline_parts.append(part)
+
+    # ========================================================
+    # FLOWSHEET
+    # ========================================================
+
+    df = load_table("Flowsheet")
+
+    if df is not None:
+
+        part = pd.DataFrame({
+            "EncounterKey": df["EncounterKey"],
+            "EventTime": df["TakenInstant"],
+            "SourceTable": "Flowsheet",
+            "EventType": df["DisplayName"],
+            "Value": df["NumericValue"],
+            "Unit": None,
+        })
+
+        timeline_parts.append(part)
+
+    # ========================================================
+    # MEDICATION ADMINISTRATIONS
+    # ========================================================
+
+    df = load_table("MedicationAdministrations")
+
+    if df is not None:
+
+        part = pd.DataFrame({
+            "EncounterKey": df["EncounterKey"],
+            "EventTime": df["AdministrationInstant"],
+            "SourceTable": "MedicationAdministrations",
+            "EventType": df["MedicationName"],
+            "Value": df["Dose"],
+            "Unit": df["DoseUnit"],
+        })
+
+        timeline_parts.append(part)
+
+    # ========================================================
+    # PRESCRIPTIONS
+    # ========================================================
+
+    df = load_table("Prescriptions")
+
+    if df is not None:
+
+        part = pd.DataFrame({
+            "EncounterKey": df["EncounterKey"],
+            "EventTime": df["PrescriptionStartInstant"],
+            "SourceTable": "Prescriptions",
+            "EventType": df["Drug"],
+            "Value": df["Dose"],
+            "Unit": df["DoseUnit"],
+        })
+
+        timeline_parts.append(part)
+
+    # ========================================================
+    # DIAGNOSES
+    # ========================================================
+
+    df = load_table("Diagnosis")
+
+    if df is not None:
+
+        diagnosis_times = []
+
+        for _, row in df.iterrows():
+
+            diagnosis_date = pd.to_datetime(
+                row["DiagnosisStartDate"],
+                errors="coerce",
+            )
+
+            event_time = diagnosis_date
+
+            # If diagnosis occurred on the encounter start date,
+            # use the actual encounter start time.
+            if population is not None:
+
+                patient_encounter = population[
+                    population["EncounterKey"].astype(str)
+                    == str(row["EncounterKey"])
+                ]
+
+                if not patient_encounter.empty:
+
+                    encounter = patient_encounter.iloc[0]
+
+                    start_time = pd.to_datetime(
+                        encounter["StartInstant"],
+                        errors="coerce",
+                    )
+
+                    if (
+                        pd.notna(start_time)
+                        and pd.notna(diagnosis_date)
+                        and start_time.date()
+                        == diagnosis_date.date()
+                    ):
+                        event_time = start_time
+
+            diagnosis_times.append(event_time)
+
+        part = pd.DataFrame({
+            "EncounterKey": df["EncounterKey"],
+            "EventTime": diagnosis_times,
+            "SourceTable": "Diagnosis",
+            "EventType": df["Name"],
+            "Value": df["SKSCode"],
+            "Unit": None,
+        })
+
+        timeline_parts.append(part)
+
+    # ========================================================
+    # COMBINE
+    # ========================================================
+
+    if not timeline_parts:
+        raise ValueError(
+            f"No supported tables found in {data_dir}"
+        )
+
+    timeline = pd.concat(
+        timeline_parts,
+        ignore_index=True,
+    )
+
+    # Convert to proper datetime for sorting
+    timeline["EventTime"] = pd.to_datetime(
+        timeline["EventTime"],
+        errors="coerce",
+    )
+
+    # Remove rows without a timestamp
+    timeline = timeline.dropna(
+        subset=["EventTime"]
+    )
+
+    # Sort chronologically
+    timeline = timeline.sort_values(
+        ["EncounterKey", "EventTime"],
+        kind="stable",
+    ).reset_index(drop=True)
+
+    # Return timestamps to ISO format
+    timeline["EventTime"] = (
+        timeline["EventTime"]
+        .dt.strftime("%Y-%m-%dT%H:%M:%S")
+    )
+
+    # Save
+    output_path = data_dir / output_filename
+
+    timeline.to_csv(
+        output_path,
+        index=False,
+    )
+
+    print(f"Timeline saved to: {output_path}")
+    print(f"Number of events: {len(timeline)}")
+
+    return timeline
 
 
 
