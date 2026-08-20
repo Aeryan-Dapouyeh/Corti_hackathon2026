@@ -1,0 +1,8 @@
+Table,EntityLevel,PatientKey,EncounterKey,PrimaryTimeColumn,SecondaryTimeColumn,Purpose
+Population.csv,Encounter,PatientDurableKey / EnterpriseId,EncounterKey,StartInstant,EndInstant,Encounter anchor plus demographics and admission/discharge window
+Vitals.csv,Event,EnterpriseId,EncounterKey,TakenInstant,,Repeated vital-sign measurements
+Bloodtests.csv,Event,EnterpriseId,EncounterKey,CollectionInstant,ResultInstant,Repeated laboratory measurements
+MedicationAdministrations.csv,Event,EnterpriseId,EncounterKey,AdministrationInstant,,In-hospital medication administrations
+Prescriptions.csv,Interval,PatientDurableKey / EnterpriseId,EncounterKey,PrescriptionStartInstant,PrescriptionEndInstant,Discharge/outpatient prescription intervals
+Flowsheet.csv,Event,EnterpriseId,EncounterKey,TakenInstant,,Nursing/clinical flowsheet observations
+Diagnosis.csv,Interval,EnterpriseId,EncounterKey,DiagnosisStartDate,DiagnosisEndDate,Coded diagnoses for the encounter

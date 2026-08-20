@@ -1,0 +1,11 @@
+PatientDurableKey,EncounterKey,EnterpriseId,Sex,AgeInYears,HospitalAreaName,OverafdelingName,OverafdelingEpicId,AfsnitName,AfsnitEpicId,StartInstant,EndInstant,StartDate,EndDate,HeightInCm,WeightInKg,Bloodtype
+PDK-0001,E0001,ENT-0001,Male,67,Region Hovedstaden - Demo Hospital,Emergency Medicine,OVR-101,Acute Medical Unit,AFS-201,2026-01-05T08:20:00,2026-01-08T08:20:00,2026-01-05,2026-01-08,176,82.8,A+
+PDK-0002,E0002,ENT-0002,Female,74,Region Hovedstaden - Demo Hospital,Emergency Medicine,OVR-102,Acute Medical Unit,AFS-202,2026-01-16T11:10:00,2026-01-18T11:10:00,2026-01-16,2026-01-18,163,67.0,O+
+PDK-0003,E0003,ENT-0003,Male,58,Region Hovedstaden - Demo Hospital,Cardiology,OVR-103,Cardiology Ward,AFS-203,2026-02-03T09:40:00,2026-02-07T09:40:00,2026-02-03,2026-02-07,182,91.5,B+
+PDK-0004,E0004,ENT-0004,Female,45,Region Hovedstaden - Demo Hospital,Surgery,OVR-104,Surgical Ward,AFS-204,2026-02-14T18:05:00,2026-02-16T06:05:00,2026-02-14,2026-02-16,169,72.9,A-
+PDK-0005,E0005,ENT-0005,Male,81,Region Hovedstaden - Demo Hospital,Pulmonology,OVR-105,Respiratory Ward,AFS-205,2026-02-28T07:55:00,2026-03-03T07:55:00,2026-02-28,2026-03-03,171,70.9,O-
+PDK-0006,E0006,ENT-0006,Female,63,Region Hovedstaden - Demo Hospital,Endocrinology,OVR-106,Medical Ward,AFS-206,2026-03-10T14:25:00,2026-03-12T20:25:00,2026-03-10,2026-03-12,158,60.6,AB+
+PDK-0007,E0007,ENT-0007,Male,39,Region Hovedstaden - Demo Hospital,Emergency Medicine,OVR-107,Observation Unit,AFS-207,2026-03-21T20:30:00,2026-03-22T20:30:00,2026-03-21,2026-03-22,185,88.7,A+
+PDK-0008,E0008,ENT-0008,Female,52,Region Hovedstaden - Demo Hospital,Nephrology,OVR-108,Medical Ward,AFS-208,2026-04-02T06:45:00,2026-04-05T18:45:00,2026-04-02,2026-04-05,167,77.3,B-
+PDK-0001,E0009,ENT-0001,Male,67,Region Hovedstaden - Demo Hospital,Emergency Medicine,OVR-109,Acute Medical Unit,AFS-209,2026-05-12T13:15:00,2026-05-13T19:15:00,2026-05-12,2026-05-13,176,83.8,A+
+PDK-0002,E0010,ENT-0002,Female,74,Region Hovedstaden - Demo Hospital,Pulmonology,OVR-110,Respiratory Ward,AFS-210,2026-06-07T10:05:00,2026-06-09T22:05:00,2026-06-07,2026-06-09,163,68.0,O+

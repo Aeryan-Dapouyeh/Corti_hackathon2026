@@ -1,0 +1,393 @@
+EncounterKey,EnterpriseId,LabOrderEpicId,SpecimenType,OrderType,ComponentName,BaseName,CommonName,CollectionInstant,ResultInstant,ResultStatus,Flag,Value,NumericValue,Unit,ReferenceValueLow,ReferenceValueHigh,FinalResultStatus,IsFinal,IsAbnormal
+E0001,ENT-0001,LAB000001,Blood,Routine,C-reactive protein,CRP,CRP,2026-01-05T09:05:00,2026-01-05T09:40:00,Final,High,179.1,179.1,mg/L,0,10,Final,True,True
+E0001,ENT-0001,LAB000001,Blood,Routine,Creatinine,CREA,Creatinine,2026-01-05T09:05:00,2026-01-05T09:40:00,Final,High,136.0,136.0,umol/L,45,105,Final,True,True
+E0001,ENT-0001,LAB000001,Blood,Routine,Glucose,GLU,Glucose,2026-01-05T09:05:00,2026-01-05T09:40:00,Final,High,8.6,8.6,mmol/L,4.0,7.8,Final,True,True
+E0001,ENT-0001,LAB000001,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-01-05T09:05:00,2026-01-05T09:40:00,Final,,7.4,7.4,mmol/L,7.3,10.5,Final,True,False
+E0001,ENT-0001,LAB000001,Blood,Routine,Lactate,LAC,Lactate,2026-01-05T09:05:00,2026-01-05T09:40:00,Final,High,3.1,3.1,mmol/L,0.5,2.2,Final,True,True
+E0001,ENT-0001,LAB000001,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-01-05T09:05:00,2026-01-05T09:40:00,Final,High,17.7,17.7,10^9/L,3.5,10.0,Final,True,True
+E0001,ENT-0001,LAB000001,Blood,Routine,Platelets,PLT,Platelets,2026-01-05T09:05:00,2026-01-05T09:40:00,Final,,168.0,168.0,10^9/L,145,390,Final,True,False
+E0001,ENT-0001,LAB000001,Blood,Routine,Potassium,K,Potassium,2026-01-05T09:05:00,2026-01-05T09:40:00,Final,,4.5,4.5,mmol/L,3.5,4.6,Final,True,False
+E0001,ENT-0001,LAB000002,Blood,Routine,C-reactive protein,CRP,CRP,2026-01-05T21:05:00,2026-01-05T21:40:00,Final,High,152.4,152.4,mg/L,0,10,Final,True,True
+E0001,ENT-0001,LAB000002,Blood,Routine,Creatinine,CREA,Creatinine,2026-01-05T21:05:00,2026-01-05T21:40:00,Final,High,117.0,117.0,umol/L,45,105,Final,True,True
+E0001,ENT-0001,LAB000002,Blood,Routine,Glucose,GLU,Glucose,2026-01-05T21:05:00,2026-01-05T21:40:00,Final,High,8.0,8.0,mmol/L,4.0,7.8,Final,True,True
+E0001,ENT-0001,LAB000002,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-01-05T21:05:00,2026-01-05T21:40:00,Final,,7.9,7.9,mmol/L,7.3,10.5,Final,True,False
+E0001,ENT-0001,LAB000002,Blood,Routine,Lactate,LAC,Lactate,2026-01-05T21:05:00,2026-01-05T21:40:00,Final,High,2.9,2.9,mmol/L,0.5,2.2,Final,True,True
+E0001,ENT-0001,LAB000002,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-01-05T21:05:00,2026-01-05T21:40:00,Final,High,16.1,16.1,10^9/L,3.5,10.0,Final,True,True
+E0001,ENT-0001,LAB000002,Blood,Routine,Platelets,PLT,Platelets,2026-01-05T21:05:00,2026-01-05T21:40:00,Final,,219.0,219.0,10^9/L,145,390,Final,True,False
+E0001,ENT-0001,LAB000002,Blood,Routine,Potassium,K,Potassium,2026-01-05T21:05:00,2026-01-05T21:40:00,Final,,4.3,4.3,mmol/L,3.5,4.6,Final,True,False
+E0001,ENT-0001,LAB000003,Blood,Routine,C-reactive protein,CRP,CRP,2026-01-06T09:05:00,2026-01-06T09:40:00,Final,High,126.4,126.4,mg/L,0,10,Final,True,True
+E0001,ENT-0001,LAB000003,Blood,Routine,Creatinine,CREA,Creatinine,2026-01-06T09:05:00,2026-01-06T09:40:00,Final,High,107.0,107.0,umol/L,45,105,Final,True,True
+E0001,ENT-0001,LAB000003,Blood,Routine,Glucose,GLU,Glucose,2026-01-06T09:05:00,2026-01-06T09:40:00,Final,,6.7,6.7,mmol/L,4.0,7.8,Final,True,False
+E0001,ENT-0001,LAB000003,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-01-06T09:05:00,2026-01-06T09:40:00,Final,,7.7,7.7,mmol/L,7.3,10.5,Final,True,False
+E0001,ENT-0001,LAB000003,Blood,Routine,Lactate,LAC,Lactate,2026-01-06T09:05:00,2026-01-06T09:40:00,Final,High,2.5,2.5,mmol/L,0.5,2.2,Final,True,True
+E0001,ENT-0001,LAB000003,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-01-06T09:05:00,2026-01-06T09:40:00,Final,High,13.8,13.8,10^9/L,3.5,10.0,Final,True,True
+E0001,ENT-0001,LAB000003,Blood,Routine,Platelets,PLT,Platelets,2026-01-06T09:05:00,2026-01-06T09:40:00,Final,,193.0,193.0,10^9/L,145,390,Final,True,False
+E0001,ENT-0001,LAB000003,Blood,Routine,Potassium,K,Potassium,2026-01-06T09:05:00,2026-01-06T09:40:00,Final,,4.5,4.5,mmol/L,3.5,4.6,Final,True,False
+E0001,ENT-0001,LAB000004,Blood,Routine,C-reactive protein,CRP,CRP,2026-01-06T21:05:00,2026-01-06T21:40:00,Final,High,74.8,74.8,mg/L,0,10,Final,True,True
+E0001,ENT-0001,LAB000004,Blood,Routine,Creatinine,CREA,Creatinine,2026-01-06T21:05:00,2026-01-06T21:40:00,Final,High,107.0,107.0,umol/L,45,105,Final,True,True
+E0001,ENT-0001,LAB000004,Blood,Routine,Glucose,GLU,Glucose,2026-01-06T21:05:00,2026-01-06T21:40:00,Final,,7.0,7.0,mmol/L,4.0,7.8,Final,True,False
+E0001,ENT-0001,LAB000004,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-01-06T21:05:00,2026-01-06T21:40:00,Final,,8.0,8.0,mmol/L,7.3,10.5,Final,True,False
+E0001,ENT-0001,LAB000004,Blood,Routine,Lactate,LAC,Lactate,2026-01-06T21:05:00,2026-01-06T21:40:00,Final,,2.1,2.1,mmol/L,0.5,2.2,Final,True,False
+E0001,ENT-0001,LAB000004,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-01-06T21:05:00,2026-01-06T21:40:00,Final,High,11.9,11.9,10^9/L,3.5,10.0,Final,True,True
+E0001,ENT-0001,LAB000004,Blood,Routine,Platelets,PLT,Platelets,2026-01-06T21:05:00,2026-01-06T21:40:00,Final,,185.0,185.0,10^9/L,145,390,Final,True,False
+E0001,ENT-0001,LAB000004,Blood,Routine,Potassium,K,Potassium,2026-01-06T21:05:00,2026-01-06T21:40:00,Final,,4.2,4.2,mmol/L,3.5,4.6,Final,True,False
+E0001,ENT-0001,LAB000005,Blood,Routine,C-reactive protein,CRP,CRP,2026-01-07T09:05:00,2026-01-07T09:40:00,Final,High,61.0,61.0,mg/L,0,10,Final,True,True
+E0001,ENT-0001,LAB000005,Blood,Routine,Creatinine,CREA,Creatinine,2026-01-07T09:05:00,2026-01-07T09:40:00,Final,,104.0,104.0,umol/L,45,105,Final,True,False
+E0001,ENT-0001,LAB000005,Blood,Routine,Glucose,GLU,Glucose,2026-01-07T09:05:00,2026-01-07T09:40:00,Final,,6.8,6.8,mmol/L,4.0,7.8,Final,True,False
+E0001,ENT-0001,LAB000005,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-01-07T09:05:00,2026-01-07T09:40:00,Final,,8.0,8.0,mmol/L,7.3,10.5,Final,True,False
+E0001,ENT-0001,LAB000005,Blood,Routine,Lactate,LAC,Lactate,2026-01-07T09:05:00,2026-01-07T09:40:00,Final,,2.1,2.1,mmol/L,0.5,2.2,Final,True,False
+E0001,ENT-0001,LAB000005,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-01-07T09:05:00,2026-01-07T09:40:00,Final,High,10.3,10.3,10^9/L,3.5,10.0,Final,True,True
+E0001,ENT-0001,LAB000005,Blood,Routine,Platelets,PLT,Platelets,2026-01-07T09:05:00,2026-01-07T09:40:00,Final,,209.0,209.0,10^9/L,145,390,Final,True,False
+E0001,ENT-0001,LAB000005,Blood,Routine,Potassium,K,Potassium,2026-01-07T09:05:00,2026-01-07T09:40:00,Final,,4.3,4.3,mmol/L,3.5,4.6,Final,True,False
+E0001,ENT-0001,LAB000006,Blood,Routine,C-reactive protein,CRP,CRP,2026-01-07T21:05:00,2026-01-07T21:40:00,Final,High,39.8,39.8,mg/L,0,10,Final,True,True
+E0001,ENT-0001,LAB000006,Blood,Routine,Creatinine,CREA,Creatinine,2026-01-07T21:05:00,2026-01-07T21:40:00,Final,,91.0,91.0,umol/L,45,105,Final,True,False
+E0001,ENT-0001,LAB000006,Blood,Routine,Glucose,GLU,Glucose,2026-01-07T21:05:00,2026-01-07T21:40:00,Final,,6.8,6.8,mmol/L,4.0,7.8,Final,True,False
+E0001,ENT-0001,LAB000006,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-01-07T21:05:00,2026-01-07T21:40:00,Final,,8.3,8.3,mmol/L,7.3,10.5,Final,True,False
+E0001,ENT-0001,LAB000006,Blood,Routine,Lactate,LAC,Lactate,2026-01-07T21:05:00,2026-01-07T21:40:00,Final,,1.4,1.4,mmol/L,0.5,2.2,Final,True,False
+E0001,ENT-0001,LAB000006,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-01-07T21:05:00,2026-01-07T21:40:00,Final,High,10.2,10.2,10^9/L,3.5,10.0,Final,True,True
+E0001,ENT-0001,LAB000006,Blood,Routine,Platelets,PLT,Platelets,2026-01-07T21:05:00,2026-01-07T21:40:00,Final,,216.0,216.0,10^9/L,145,390,Final,True,False
+E0001,ENT-0001,LAB000006,Blood,Routine,Potassium,K,Potassium,2026-01-07T21:05:00,2026-01-07T21:40:00,Final,,4.3,4.3,mmol/L,3.5,4.6,Final,True,False
+E0002,ENT-0002,LAB000007,Blood,Routine,C-reactive protein,CRP,CRP,2026-01-16T11:55:00,2026-01-16T12:30:00,Final,High,79.7,79.7,mg/L,0,10,Final,True,True
+E0002,ENT-0002,LAB000007,Blood,Routine,Creatinine,CREA,Creatinine,2026-01-16T11:55:00,2026-01-16T12:30:00,Final,,98.0,98.0,umol/L,45,105,Final,True,False
+E0002,ENT-0002,LAB000007,Blood,Routine,Glucose,GLU,Glucose,2026-01-16T11:55:00,2026-01-16T12:30:00,Final,,6.4,6.4,mmol/L,4.0,7.8,Final,True,False
+E0002,ENT-0002,LAB000007,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-01-16T11:55:00,2026-01-16T12:30:00,Final,,7.8,7.8,mmol/L,7.3,10.5,Final,True,False
+E0002,ENT-0002,LAB000007,Blood,Routine,Lactate,LAC,Lactate,2026-01-16T11:55:00,2026-01-16T12:30:00,Final,,1.6,1.6,mmol/L,0.5,2.2,Final,True,False
+E0002,ENT-0002,LAB000007,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-01-16T11:55:00,2026-01-16T12:30:00,Final,High,13.6,13.6,10^9/L,3.5,10.0,Final,True,True
+E0002,ENT-0002,LAB000007,Blood,Routine,Platelets,PLT,Platelets,2026-01-16T11:55:00,2026-01-16T12:30:00,Final,,252.0,252.0,10^9/L,145,390,Final,True,False
+E0002,ENT-0002,LAB000007,Blood,Routine,Potassium,K,Potassium,2026-01-16T11:55:00,2026-01-16T12:30:00,Final,,4.1,4.1,mmol/L,3.5,4.6,Final,True,False
+E0002,ENT-0002,LAB000008,Blood,Routine,C-reactive protein,CRP,CRP,2026-01-16T23:55:00,2026-01-17T00:30:00,Final,High,56.5,56.5,mg/L,0,10,Final,True,True
+E0002,ENT-0002,LAB000008,Blood,Routine,Creatinine,CREA,Creatinine,2026-01-16T23:55:00,2026-01-17T00:30:00,Final,,94.0,94.0,umol/L,45,105,Final,True,False
+E0002,ENT-0002,LAB000008,Blood,Routine,Glucose,GLU,Glucose,2026-01-16T23:55:00,2026-01-17T00:30:00,Final,,7.0,7.0,mmol/L,4.0,7.8,Final,True,False
+E0002,ENT-0002,LAB000008,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-01-16T23:55:00,2026-01-17T00:30:00,Final,,8.3,8.3,mmol/L,7.3,10.5,Final,True,False
+E0002,ENT-0002,LAB000008,Blood,Routine,Lactate,LAC,Lactate,2026-01-16T23:55:00,2026-01-17T00:30:00,Final,,1.8,1.8,mmol/L,0.5,2.2,Final,True,False
+E0002,ENT-0002,LAB000008,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-01-16T23:55:00,2026-01-17T00:30:00,Final,High,11.6,11.6,10^9/L,3.5,10.0,Final,True,True
+E0002,ENT-0002,LAB000008,Blood,Routine,Platelets,PLT,Platelets,2026-01-16T23:55:00,2026-01-17T00:30:00,Final,,224.0,224.0,10^9/L,145,390,Final,True,False
+E0002,ENT-0002,LAB000008,Blood,Routine,Potassium,K,Potassium,2026-01-16T23:55:00,2026-01-17T00:30:00,Final,,4.0,4.0,mmol/L,3.5,4.6,Final,True,False
+E0002,ENT-0002,LAB000009,Blood,Routine,C-reactive protein,CRP,CRP,2026-01-17T11:55:00,2026-01-17T12:30:00,Final,High,35.5,35.5,mg/L,0,10,Final,True,True
+E0002,ENT-0002,LAB000009,Blood,Routine,Creatinine,CREA,Creatinine,2026-01-17T11:55:00,2026-01-17T12:30:00,Final,,93.0,93.0,umol/L,45,105,Final,True,False
+E0002,ENT-0002,LAB000009,Blood,Routine,Glucose,GLU,Glucose,2026-01-17T11:55:00,2026-01-17T12:30:00,Final,,6.5,6.5,mmol/L,4.0,7.8,Final,True,False
+E0002,ENT-0002,LAB000009,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-01-17T11:55:00,2026-01-17T12:30:00,Final,,8.1,8.1,mmol/L,7.3,10.5,Final,True,False
+E0002,ENT-0002,LAB000009,Blood,Routine,Lactate,LAC,Lactate,2026-01-17T11:55:00,2026-01-17T12:30:00,Final,,1.1,1.1,mmol/L,0.5,2.2,Final,True,False
+E0002,ENT-0002,LAB000009,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-01-17T11:55:00,2026-01-17T12:30:00,Final,High,10.2,10.2,10^9/L,3.5,10.0,Final,True,True
+E0002,ENT-0002,LAB000009,Blood,Routine,Platelets,PLT,Platelets,2026-01-17T11:55:00,2026-01-17T12:30:00,Final,,257.0,257.0,10^9/L,145,390,Final,True,False
+E0002,ENT-0002,LAB000009,Blood,Routine,Potassium,K,Potassium,2026-01-17T11:55:00,2026-01-17T12:30:00,Final,,4.3,4.3,mmol/L,3.5,4.6,Final,True,False
+E0002,ENT-0002,LAB000010,Blood,Routine,C-reactive protein,CRP,CRP,2026-01-17T23:55:00,2026-01-18T00:30:00,Final,High,15.1,15.1,mg/L,0,10,Final,True,True
+E0002,ENT-0002,LAB000010,Blood,Routine,Creatinine,CREA,Creatinine,2026-01-17T23:55:00,2026-01-18T00:30:00,Final,,85.0,85.0,umol/L,45,105,Final,True,False
+E0002,ENT-0002,LAB000010,Blood,Routine,Glucose,GLU,Glucose,2026-01-17T23:55:00,2026-01-18T00:30:00,Final,,6.5,6.5,mmol/L,4.0,7.8,Final,True,False
+E0002,ENT-0002,LAB000010,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-01-17T23:55:00,2026-01-18T00:30:00,Final,,8.7,8.7,mmol/L,7.3,10.5,Final,True,False
+E0002,ENT-0002,LAB000010,Blood,Routine,Lactate,LAC,Lactate,2026-01-17T23:55:00,2026-01-18T00:30:00,Final,,1.1,1.1,mmol/L,0.5,2.2,Final,True,False
+E0002,ENT-0002,LAB000010,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-01-17T23:55:00,2026-01-18T00:30:00,Final,,9.0,9.0,10^9/L,3.5,10.0,Final,True,False
+E0002,ENT-0002,LAB000010,Blood,Routine,Platelets,PLT,Platelets,2026-01-17T23:55:00,2026-01-18T00:30:00,Final,,230.0,230.0,10^9/L,145,390,Final,True,False
+E0002,ENT-0002,LAB000010,Blood,Routine,Potassium,K,Potassium,2026-01-17T23:55:00,2026-01-18T00:30:00,Final,,4.2,4.2,mmol/L,3.5,4.6,Final,True,False
+E0003,ENT-0003,LAB000011,Blood,Routine,C-reactive protein,CRP,CRP,2026-02-03T10:25:00,2026-02-03T11:00:00,Final,High,26.3,26.3,mg/L,0,10,Final,True,True
+E0003,ENT-0003,LAB000011,Blood,Routine,Creatinine,CREA,Creatinine,2026-02-03T10:25:00,2026-02-03T11:00:00,Final,High,131.0,131.0,umol/L,45,105,Final,True,True
+E0003,ENT-0003,LAB000011,Blood,Routine,Glucose,GLU,Glucose,2026-02-03T10:25:00,2026-02-03T11:00:00,Final,,7.2,7.2,mmol/L,4.0,7.8,Final,True,False
+E0003,ENT-0003,LAB000011,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-02-03T10:25:00,2026-02-03T11:00:00,Final,,8.0,8.0,mmol/L,7.3,10.5,Final,True,False
+E0003,ENT-0003,LAB000011,Blood,Routine,Lactate,LAC,Lactate,2026-02-03T10:25:00,2026-02-03T11:00:00,Final,,1.9,1.9,mmol/L,0.5,2.2,Final,True,False
+E0003,ENT-0003,LAB000011,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-02-03T10:25:00,2026-02-03T11:00:00,Final,,8.2,8.2,10^9/L,3.5,10.0,Final,True,False
+E0003,ENT-0003,LAB000011,Blood,Routine,Platelets,PLT,Platelets,2026-02-03T10:25:00,2026-02-03T11:00:00,Final,,226.0,226.0,10^9/L,145,390,Final,True,False
+E0003,ENT-0003,LAB000011,Blood,Routine,Potassium,K,Potassium,2026-02-03T10:25:00,2026-02-03T11:00:00,Final,,4.4,4.4,mmol/L,3.5,4.6,Final,True,False
+E0003,ENT-0003,LAB000012,Blood,Routine,C-reactive protein,CRP,CRP,2026-02-03T22:25:00,2026-02-03T23:00:00,Final,High,19.4,19.4,mg/L,0,10,Final,True,True
+E0003,ENT-0003,LAB000012,Blood,Routine,Creatinine,CREA,Creatinine,2026-02-03T22:25:00,2026-02-03T23:00:00,Final,High,127.0,127.0,umol/L,45,105,Final,True,True
+E0003,ENT-0003,LAB000012,Blood,Routine,Glucose,GLU,Glucose,2026-02-03T22:25:00,2026-02-03T23:00:00,Final,,7.0,7.0,mmol/L,4.0,7.8,Final,True,False
+E0003,ENT-0003,LAB000012,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-02-03T22:25:00,2026-02-03T23:00:00,Final,,7.9,7.9,mmol/L,7.3,10.5,Final,True,False
+E0003,ENT-0003,LAB000012,Blood,Routine,Lactate,LAC,Lactate,2026-02-03T22:25:00,2026-02-03T23:00:00,Final,,1.6,1.6,mmol/L,0.5,2.2,Final,True,False
+E0003,ENT-0003,LAB000012,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-02-03T22:25:00,2026-02-03T23:00:00,Final,,8.2,8.2,10^9/L,3.5,10.0,Final,True,False
+E0003,ENT-0003,LAB000012,Blood,Routine,Platelets,PLT,Platelets,2026-02-03T22:25:00,2026-02-03T23:00:00,Final,,217.0,217.0,10^9/L,145,390,Final,True,False
+E0003,ENT-0003,LAB000012,Blood,Routine,Potassium,K,Potassium,2026-02-03T22:25:00,2026-02-03T23:00:00,Final,,4.5,4.5,mmol/L,3.5,4.6,Final,True,False
+E0003,ENT-0003,LAB000013,Blood,Routine,C-reactive protein,CRP,CRP,2026-02-04T10:25:00,2026-02-04T11:00:00,Final,High,26.7,26.7,mg/L,0,10,Final,True,True
+E0003,ENT-0003,LAB000013,Blood,Routine,Creatinine,CREA,Creatinine,2026-02-04T10:25:00,2026-02-04T11:00:00,Final,High,121.0,121.0,umol/L,45,105,Final,True,True
+E0003,ENT-0003,LAB000013,Blood,Routine,Glucose,GLU,Glucose,2026-02-04T10:25:00,2026-02-04T11:00:00,Final,,5.8,5.8,mmol/L,4.0,7.8,Final,True,False
+E0003,ENT-0003,LAB000013,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-02-04T10:25:00,2026-02-04T11:00:00,Final,,8.0,8.0,mmol/L,7.3,10.5,Final,True,False
+E0003,ENT-0003,LAB000013,Blood,Routine,Lactate,LAC,Lactate,2026-02-04T10:25:00,2026-02-04T11:00:00,Final,,1.2,1.2,mmol/L,0.5,2.2,Final,True,False
+E0003,ENT-0003,LAB000013,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-02-04T10:25:00,2026-02-04T11:00:00,Final,,7.4,7.4,10^9/L,3.5,10.0,Final,True,False
+E0003,ENT-0003,LAB000013,Blood,Routine,Platelets,PLT,Platelets,2026-02-04T10:25:00,2026-02-04T11:00:00,Final,,238.0,238.0,10^9/L,145,390,Final,True,False
+E0003,ENT-0003,LAB000013,Blood,Routine,Potassium,K,Potassium,2026-02-04T10:25:00,2026-02-04T11:00:00,Final,,4.3,4.3,mmol/L,3.5,4.6,Final,True,False
+E0003,ENT-0003,LAB000014,Blood,Routine,C-reactive protein,CRP,CRP,2026-02-04T22:25:00,2026-02-04T23:00:00,Final,High,26.9,26.9,mg/L,0,10,Final,True,True
+E0003,ENT-0003,LAB000014,Blood,Routine,Creatinine,CREA,Creatinine,2026-02-04T22:25:00,2026-02-04T23:00:00,Final,High,122.0,122.0,umol/L,45,105,Final,True,True
+E0003,ENT-0003,LAB000014,Blood,Routine,Glucose,GLU,Glucose,2026-02-04T22:25:00,2026-02-04T23:00:00,Final,,6.0,6.0,mmol/L,4.0,7.8,Final,True,False
+E0003,ENT-0003,LAB000014,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-02-04T22:25:00,2026-02-04T23:00:00,Final,,8.3,8.3,mmol/L,7.3,10.5,Final,True,False
+E0003,ENT-0003,LAB000014,Blood,Routine,Lactate,LAC,Lactate,2026-02-04T22:25:00,2026-02-04T23:00:00,Final,,1.5,1.5,mmol/L,0.5,2.2,Final,True,False
+E0003,ENT-0003,LAB000014,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-02-04T22:25:00,2026-02-04T23:00:00,Final,,9.5,9.5,10^9/L,3.5,10.0,Final,True,False
+E0003,ENT-0003,LAB000014,Blood,Routine,Platelets,PLT,Platelets,2026-02-04T22:25:00,2026-02-04T23:00:00,Final,,227.0,227.0,10^9/L,145,390,Final,True,False
+E0003,ENT-0003,LAB000014,Blood,Routine,Potassium,K,Potassium,2026-02-04T22:25:00,2026-02-04T23:00:00,Final,,4.4,4.4,mmol/L,3.5,4.6,Final,True,False
+E0003,ENT-0003,LAB000015,Blood,Routine,C-reactive protein,CRP,CRP,2026-02-05T10:25:00,2026-02-05T11:00:00,Final,,7.7,7.7,mg/L,0,10,Final,True,False
+E0003,ENT-0003,LAB000015,Blood,Routine,Creatinine,CREA,Creatinine,2026-02-05T10:25:00,2026-02-05T11:00:00,Final,,104.0,104.0,umol/L,45,105,Final,True,False
+E0003,ENT-0003,LAB000015,Blood,Routine,Glucose,GLU,Glucose,2026-02-05T10:25:00,2026-02-05T11:00:00,Final,,6.5,6.5,mmol/L,4.0,7.8,Final,True,False
+E0003,ENT-0003,LAB000015,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-02-05T10:25:00,2026-02-05T11:00:00,Final,,8.0,8.0,mmol/L,7.3,10.5,Final,True,False
+E0003,ENT-0003,LAB000015,Blood,Routine,Lactate,LAC,Lactate,2026-02-05T10:25:00,2026-02-05T11:00:00,Final,,1.3,1.3,mmol/L,0.5,2.2,Final,True,False
+E0003,ENT-0003,LAB000015,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-02-05T10:25:00,2026-02-05T11:00:00,Final,,9.0,9.0,10^9/L,3.5,10.0,Final,True,False
+E0003,ENT-0003,LAB000015,Blood,Routine,Platelets,PLT,Platelets,2026-02-05T10:25:00,2026-02-05T11:00:00,Final,,221.0,221.0,10^9/L,145,390,Final,True,False
+E0003,ENT-0003,LAB000015,Blood,Routine,Potassium,K,Potassium,2026-02-05T10:25:00,2026-02-05T11:00:00,Final,,4.3,4.3,mmol/L,3.5,4.6,Final,True,False
+E0003,ENT-0003,LAB000016,Blood,Routine,C-reactive protein,CRP,CRP,2026-02-05T22:25:00,2026-02-05T23:00:00,Final,High,17.5,17.5,mg/L,0,10,Final,True,True
+E0003,ENT-0003,LAB000016,Blood,Routine,Creatinine,CREA,Creatinine,2026-02-05T22:25:00,2026-02-05T23:00:00,Final,,90.0,90.0,umol/L,45,105,Final,True,False
+E0003,ENT-0003,LAB000016,Blood,Routine,Glucose,GLU,Glucose,2026-02-05T22:25:00,2026-02-05T23:00:00,Final,,6.9,6.9,mmol/L,4.0,7.8,Final,True,False
+E0003,ENT-0003,LAB000016,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-02-05T22:25:00,2026-02-05T23:00:00,Final,,8.1,8.1,mmol/L,7.3,10.5,Final,True,False
+E0003,ENT-0003,LAB000016,Blood,Routine,Lactate,LAC,Lactate,2026-02-05T22:25:00,2026-02-05T23:00:00,Final,,1.3,1.3,mmol/L,0.5,2.2,Final,True,False
+E0003,ENT-0003,LAB000016,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-02-05T22:25:00,2026-02-05T23:00:00,Final,,7.7,7.7,10^9/L,3.5,10.0,Final,True,False
+E0003,ENT-0003,LAB000016,Blood,Routine,Platelets,PLT,Platelets,2026-02-05T22:25:00,2026-02-05T23:00:00,Final,,219.0,219.0,10^9/L,145,390,Final,True,False
+E0003,ENT-0003,LAB000016,Blood,Routine,Potassium,K,Potassium,2026-02-05T22:25:00,2026-02-05T23:00:00,Final,,4.3,4.3,mmol/L,3.5,4.6,Final,True,False
+E0003,ENT-0003,LAB000017,Blood,Routine,C-reactive protein,CRP,CRP,2026-02-06T10:25:00,2026-02-06T11:00:00,Final,,5.2,5.2,mg/L,0,10,Final,True,False
+E0003,ENT-0003,LAB000017,Blood,Routine,Creatinine,CREA,Creatinine,2026-02-06T10:25:00,2026-02-06T11:00:00,Final,,88.0,88.0,umol/L,45,105,Final,True,False
+E0003,ENT-0003,LAB000017,Blood,Routine,Glucose,GLU,Glucose,2026-02-06T10:25:00,2026-02-06T11:00:00,Final,,5.9,5.9,mmol/L,4.0,7.8,Final,True,False
+E0003,ENT-0003,LAB000017,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-02-06T10:25:00,2026-02-06T11:00:00,Final,,8.4,8.4,mmol/L,7.3,10.5,Final,True,False
+E0003,ENT-0003,LAB000017,Blood,Routine,Lactate,LAC,Lactate,2026-02-06T10:25:00,2026-02-06T11:00:00,Final,,1.3,1.3,mmol/L,0.5,2.2,Final,True,False
+E0003,ENT-0003,LAB000017,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-02-06T10:25:00,2026-02-06T11:00:00,Final,,8.3,8.3,10^9/L,3.5,10.0,Final,True,False
+E0003,ENT-0003,LAB000017,Blood,Routine,Platelets,PLT,Platelets,2026-02-06T10:25:00,2026-02-06T11:00:00,Final,,243.0,243.0,10^9/L,145,390,Final,True,False
+E0003,ENT-0003,LAB000017,Blood,Routine,Potassium,K,Potassium,2026-02-06T10:25:00,2026-02-06T11:00:00,Final,,4.3,4.3,mmol/L,3.5,4.6,Final,True,False
+E0003,ENT-0003,LAB000018,Blood,Routine,C-reactive protein,CRP,CRP,2026-02-06T22:25:00,2026-02-06T23:00:00,Final,,5.5,5.5,mg/L,0,10,Final,True,False
+E0003,ENT-0003,LAB000018,Blood,Routine,Creatinine,CREA,Creatinine,2026-02-06T22:25:00,2026-02-06T23:00:00,Final,,99.0,99.0,umol/L,45,105,Final,True,False
+E0003,ENT-0003,LAB000018,Blood,Routine,Glucose,GLU,Glucose,2026-02-06T22:25:00,2026-02-06T23:00:00,Final,,5.9,5.9,mmol/L,4.0,7.8,Final,True,False
+E0003,ENT-0003,LAB000018,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-02-06T22:25:00,2026-02-06T23:00:00,Final,,8.0,8.0,mmol/L,7.3,10.5,Final,True,False
+E0003,ENT-0003,LAB000018,Blood,Routine,Lactate,LAC,Lactate,2026-02-06T22:25:00,2026-02-06T23:00:00,Final,,1.1,1.1,mmol/L,0.5,2.2,Final,True,False
+E0003,ENT-0003,LAB000018,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-02-06T22:25:00,2026-02-06T23:00:00,Final,,8.0,8.0,10^9/L,3.5,10.0,Final,True,False
+E0003,ENT-0003,LAB000018,Blood,Routine,Platelets,PLT,Platelets,2026-02-06T22:25:00,2026-02-06T23:00:00,Final,,213.0,213.0,10^9/L,145,390,Final,True,False
+E0003,ENT-0003,LAB000018,Blood,Routine,Potassium,K,Potassium,2026-02-06T22:25:00,2026-02-06T23:00:00,Final,,4.1,4.1,mmol/L,3.5,4.6,Final,True,False
+E0004,ENT-0004,LAB000019,Blood,Routine,C-reactive protein,CRP,CRP,2026-02-14T18:50:00,2026-02-14T19:25:00,Final,High,115.8,115.8,mg/L,0,10,Final,True,True
+E0004,ENT-0004,LAB000019,Blood,Routine,Creatinine,CREA,Creatinine,2026-02-14T18:50:00,2026-02-14T19:25:00,Final,,81.0,81.0,umol/L,45,105,Final,True,False
+E0004,ENT-0004,LAB000019,Blood,Routine,Glucose,GLU,Glucose,2026-02-14T18:50:00,2026-02-14T19:25:00,Final,,7.1,7.1,mmol/L,4.0,7.8,Final,True,False
+E0004,ENT-0004,LAB000019,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-02-14T18:50:00,2026-02-14T19:25:00,Final,Low,7.1,7.1,mmol/L,7.3,10.5,Final,True,True
+E0004,ENT-0004,LAB000019,Blood,Routine,Lactate,LAC,Lactate,2026-02-14T18:50:00,2026-02-14T19:25:00,Final,,1.8,1.8,mmol/L,0.5,2.2,Final,True,False
+E0004,ENT-0004,LAB000019,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-02-14T18:50:00,2026-02-14T19:25:00,Final,High,14.9,14.9,10^9/L,3.5,10.0,Final,True,True
+E0004,ENT-0004,LAB000019,Blood,Routine,Platelets,PLT,Platelets,2026-02-14T18:50:00,2026-02-14T19:25:00,Final,,238.0,238.0,10^9/L,145,390,Final,True,False
+E0004,ENT-0004,LAB000019,Blood,Routine,Potassium,K,Potassium,2026-02-14T18:50:00,2026-02-14T19:25:00,Final,,4.1,4.1,mmol/L,3.5,4.6,Final,True,False
+E0004,ENT-0004,LAB000020,Blood,Routine,C-reactive protein,CRP,CRP,2026-02-15T06:50:00,2026-02-15T07:25:00,Final,High,77.1,77.1,mg/L,0,10,Final,True,True
+E0004,ENT-0004,LAB000020,Blood,Routine,Creatinine,CREA,Creatinine,2026-02-15T06:50:00,2026-02-15T07:25:00,Final,,87.0,87.0,umol/L,45,105,Final,True,False
+E0004,ENT-0004,LAB000020,Blood,Routine,Glucose,GLU,Glucose,2026-02-15T06:50:00,2026-02-15T07:25:00,Final,,6.5,6.5,mmol/L,4.0,7.8,Final,True,False
+E0004,ENT-0004,LAB000020,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-02-15T06:50:00,2026-02-15T07:25:00,Final,,7.4,7.4,mmol/L,7.3,10.5,Final,True,False
+E0004,ENT-0004,LAB000020,Blood,Routine,Lactate,LAC,Lactate,2026-02-15T06:50:00,2026-02-15T07:25:00,Final,,1.7,1.7,mmol/L,0.5,2.2,Final,True,False
+E0004,ENT-0004,LAB000020,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-02-15T06:50:00,2026-02-15T07:25:00,Final,High,12.3,12.3,10^9/L,3.5,10.0,Final,True,True
+E0004,ENT-0004,LAB000020,Blood,Routine,Platelets,PLT,Platelets,2026-02-15T06:50:00,2026-02-15T07:25:00,Final,,262.0,262.0,10^9/L,145,390,Final,True,False
+E0004,ENT-0004,LAB000020,Blood,Routine,Potassium,K,Potassium,2026-02-15T06:50:00,2026-02-15T07:25:00,Final,,4.1,4.1,mmol/L,3.5,4.6,Final,True,False
+E0004,ENT-0004,LAB000021,Blood,Routine,C-reactive protein,CRP,CRP,2026-02-15T18:50:00,2026-02-15T19:25:00,Final,High,33.0,33.0,mg/L,0,10,Final,True,True
+E0004,ENT-0004,LAB000021,Blood,Routine,Creatinine,CREA,Creatinine,2026-02-15T18:50:00,2026-02-15T19:25:00,Final,,90.0,90.0,umol/L,45,105,Final,True,False
+E0004,ENT-0004,LAB000021,Blood,Routine,Glucose,GLU,Glucose,2026-02-15T18:50:00,2026-02-15T19:25:00,Final,,5.7,5.7,mmol/L,4.0,7.8,Final,True,False
+E0004,ENT-0004,LAB000021,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-02-15T18:50:00,2026-02-15T19:25:00,Final,,7.8,7.8,mmol/L,7.3,10.5,Final,True,False
+E0004,ENT-0004,LAB000021,Blood,Routine,Lactate,LAC,Lactate,2026-02-15T18:50:00,2026-02-15T19:25:00,Final,,1.1,1.1,mmol/L,0.5,2.2,Final,True,False
+E0004,ENT-0004,LAB000021,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-02-15T18:50:00,2026-02-15T19:25:00,Final,,10.0,10.0,10^9/L,3.5,10.0,Final,True,False
+E0004,ENT-0004,LAB000021,Blood,Routine,Platelets,PLT,Platelets,2026-02-15T18:50:00,2026-02-15T19:25:00,Final,,254.0,254.0,10^9/L,145,390,Final,True,False
+E0004,ENT-0004,LAB000021,Blood,Routine,Potassium,K,Potassium,2026-02-15T18:50:00,2026-02-15T19:25:00,Final,,4.0,4.0,mmol/L,3.5,4.6,Final,True,False
+E0005,ENT-0005,LAB000022,Blood,Routine,C-reactive protein,CRP,CRP,2026-02-28T08:40:00,2026-02-28T09:15:00,Final,High,26.0,26.0,mg/L,0,10,Final,True,True
+E0005,ENT-0005,LAB000022,Blood,Routine,Creatinine,CREA,Creatinine,2026-02-28T08:40:00,2026-02-28T09:15:00,Final,,102.0,102.0,umol/L,45,105,Final,True,False
+E0005,ENT-0005,LAB000022,Blood,Routine,Glucose,GLU,Glucose,2026-02-28T08:40:00,2026-02-28T09:15:00,Final,,7.1,7.1,mmol/L,4.0,7.8,Final,True,False
+E0005,ENT-0005,LAB000022,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-02-28T08:40:00,2026-02-28T09:15:00,Final,,8.5,8.5,mmol/L,7.3,10.5,Final,True,False
+E0005,ENT-0005,LAB000022,Blood,Routine,Lactate,LAC,Lactate,2026-02-28T08:40:00,2026-02-28T09:15:00,Final,,1.5,1.5,mmol/L,0.5,2.2,Final,True,False
+E0005,ENT-0005,LAB000022,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-02-28T08:40:00,2026-02-28T09:15:00,Final,High,11.3,11.3,10^9/L,3.5,10.0,Final,True,True
+E0005,ENT-0005,LAB000022,Blood,Routine,Platelets,PLT,Platelets,2026-02-28T08:40:00,2026-02-28T09:15:00,Final,,230.0,230.0,10^9/L,145,390,Final,True,False
+E0005,ENT-0005,LAB000022,Blood,Routine,Potassium,K,Potassium,2026-02-28T08:40:00,2026-02-28T09:15:00,Final,,4.2,4.2,mmol/L,3.5,4.6,Final,True,False
+E0005,ENT-0005,LAB000023,Blood,Routine,C-reactive protein,CRP,CRP,2026-02-28T20:40:00,2026-02-28T21:15:00,Final,High,32.4,32.4,mg/L,0,10,Final,True,True
+E0005,ENT-0005,LAB000023,Blood,Routine,Creatinine,CREA,Creatinine,2026-02-28T20:40:00,2026-02-28T21:15:00,Final,,95.0,95.0,umol/L,45,105,Final,True,False
+E0005,ENT-0005,LAB000023,Blood,Routine,Glucose,GLU,Glucose,2026-02-28T20:40:00,2026-02-28T21:15:00,Final,,6.7,6.7,mmol/L,4.0,7.8,Final,True,False
+E0005,ENT-0005,LAB000023,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-02-28T20:40:00,2026-02-28T21:15:00,Final,,8.4,8.4,mmol/L,7.3,10.5,Final,True,False
+E0005,ENT-0005,LAB000023,Blood,Routine,Lactate,LAC,Lactate,2026-02-28T20:40:00,2026-02-28T21:15:00,Final,,1.6,1.6,mmol/L,0.5,2.2,Final,True,False
+E0005,ENT-0005,LAB000023,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-02-28T20:40:00,2026-02-28T21:15:00,Final,,9.4,9.4,10^9/L,3.5,10.0,Final,True,False
+E0005,ENT-0005,LAB000023,Blood,Routine,Platelets,PLT,Platelets,2026-02-28T20:40:00,2026-02-28T21:15:00,Final,,234.0,234.0,10^9/L,145,390,Final,True,False
+E0005,ENT-0005,LAB000023,Blood,Routine,Potassium,K,Potassium,2026-02-28T20:40:00,2026-02-28T21:15:00,Final,,4.0,4.0,mmol/L,3.5,4.6,Final,True,False
+E0005,ENT-0005,LAB000024,Blood,Routine,C-reactive protein,CRP,CRP,2026-03-01T08:40:00,2026-03-01T09:15:00,Final,High,15.3,15.3,mg/L,0,10,Final,True,True
+E0005,ENT-0005,LAB000024,Blood,Routine,Creatinine,CREA,Creatinine,2026-03-01T08:40:00,2026-03-01T09:15:00,Final,,86.0,86.0,umol/L,45,105,Final,True,False
+E0005,ENT-0005,LAB000024,Blood,Routine,Glucose,GLU,Glucose,2026-03-01T08:40:00,2026-03-01T09:15:00,Final,,7.1,7.1,mmol/L,4.0,7.8,Final,True,False
+E0005,ENT-0005,LAB000024,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-03-01T08:40:00,2026-03-01T09:15:00,Final,,8.5,8.5,mmol/L,7.3,10.5,Final,True,False
+E0005,ENT-0005,LAB000024,Blood,Routine,Lactate,LAC,Lactate,2026-03-01T08:40:00,2026-03-01T09:15:00,Final,,1.6,1.6,mmol/L,0.5,2.2,Final,True,False
+E0005,ENT-0005,LAB000024,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-03-01T08:40:00,2026-03-01T09:15:00,Final,,9.7,9.7,10^9/L,3.5,10.0,Final,True,False
+E0005,ENT-0005,LAB000024,Blood,Routine,Platelets,PLT,Platelets,2026-03-01T08:40:00,2026-03-01T09:15:00,Final,,219.0,219.0,10^9/L,145,390,Final,True,False
+E0005,ENT-0005,LAB000024,Blood,Routine,Potassium,K,Potassium,2026-03-01T08:40:00,2026-03-01T09:15:00,Final,,4.3,4.3,mmol/L,3.5,4.6,Final,True,False
+E0005,ENT-0005,LAB000025,Blood,Routine,C-reactive protein,CRP,CRP,2026-03-01T20:40:00,2026-03-01T21:15:00,Final,High,18.5,18.5,mg/L,0,10,Final,True,True
+E0005,ENT-0005,LAB000025,Blood,Routine,Creatinine,CREA,Creatinine,2026-03-01T20:40:00,2026-03-01T21:15:00,Final,,86.0,86.0,umol/L,45,105,Final,True,False
+E0005,ENT-0005,LAB000025,Blood,Routine,Glucose,GLU,Glucose,2026-03-01T20:40:00,2026-03-01T21:15:00,Final,,6.4,6.4,mmol/L,4.0,7.8,Final,True,False
+E0005,ENT-0005,LAB000025,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-03-01T20:40:00,2026-03-01T21:15:00,Final,,8.4,8.4,mmol/L,7.3,10.5,Final,True,False
+E0005,ENT-0005,LAB000025,Blood,Routine,Lactate,LAC,Lactate,2026-03-01T20:40:00,2026-03-01T21:15:00,Final,,1.6,1.6,mmol/L,0.5,2.2,Final,True,False
+E0005,ENT-0005,LAB000025,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-03-01T20:40:00,2026-03-01T21:15:00,Final,,9.8,9.8,10^9/L,3.5,10.0,Final,True,False
+E0005,ENT-0005,LAB000025,Blood,Routine,Platelets,PLT,Platelets,2026-03-01T20:40:00,2026-03-01T21:15:00,Final,,242.0,242.0,10^9/L,145,390,Final,True,False
+E0005,ENT-0005,LAB000025,Blood,Routine,Potassium,K,Potassium,2026-03-01T20:40:00,2026-03-01T21:15:00,Final,,4.2,4.2,mmol/L,3.5,4.6,Final,True,False
+E0005,ENT-0005,LAB000026,Blood,Routine,C-reactive protein,CRP,CRP,2026-03-02T08:40:00,2026-03-02T09:15:00,Final,High,15.6,15.6,mg/L,0,10,Final,True,True
+E0005,ENT-0005,LAB000026,Blood,Routine,Creatinine,CREA,Creatinine,2026-03-02T08:40:00,2026-03-02T09:15:00,Final,,83.0,83.0,umol/L,45,105,Final,True,False
+E0005,ENT-0005,LAB000026,Blood,Routine,Glucose,GLU,Glucose,2026-03-02T08:40:00,2026-03-02T09:15:00,Final,,6.4,6.4,mmol/L,4.0,7.8,Final,True,False
+E0005,ENT-0005,LAB000026,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-03-02T08:40:00,2026-03-02T09:15:00,Final,,8.6,8.6,mmol/L,7.3,10.5,Final,True,False
+E0005,ENT-0005,LAB000026,Blood,Routine,Lactate,LAC,Lactate,2026-03-02T08:40:00,2026-03-02T09:15:00,Final,,1.3,1.3,mmol/L,0.5,2.2,Final,True,False
+E0005,ENT-0005,LAB000026,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-03-02T08:40:00,2026-03-02T09:15:00,Final,,8.0,8.0,10^9/L,3.5,10.0,Final,True,False
+E0005,ENT-0005,LAB000026,Blood,Routine,Platelets,PLT,Platelets,2026-03-02T08:40:00,2026-03-02T09:15:00,Final,,240.0,240.0,10^9/L,145,390,Final,True,False
+E0005,ENT-0005,LAB000026,Blood,Routine,Potassium,K,Potassium,2026-03-02T08:40:00,2026-03-02T09:15:00,Final,,4.1,4.1,mmol/L,3.5,4.6,Final,True,False
+E0005,ENT-0005,LAB000027,Blood,Routine,C-reactive protein,CRP,CRP,2026-03-02T20:40:00,2026-03-02T21:15:00,Final,,7.7,7.7,mg/L,0,10,Final,True,False
+E0005,ENT-0005,LAB000027,Blood,Routine,Creatinine,CREA,Creatinine,2026-03-02T20:40:00,2026-03-02T21:15:00,Final,,79.0,79.0,umol/L,45,105,Final,True,False
+E0005,ENT-0005,LAB000027,Blood,Routine,Glucose,GLU,Glucose,2026-03-02T20:40:00,2026-03-02T21:15:00,Final,,6.1,6.1,mmol/L,4.0,7.8,Final,True,False
+E0005,ENT-0005,LAB000027,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-03-02T20:40:00,2026-03-02T21:15:00,Final,,8.4,8.4,mmol/L,7.3,10.5,Final,True,False
+E0005,ENT-0005,LAB000027,Blood,Routine,Lactate,LAC,Lactate,2026-03-02T20:40:00,2026-03-02T21:15:00,Final,,1.1,1.1,mmol/L,0.5,2.2,Final,True,False
+E0005,ENT-0005,LAB000027,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-03-02T20:40:00,2026-03-02T21:15:00,Final,,7.3,7.3,10^9/L,3.5,10.0,Final,True,False
+E0005,ENT-0005,LAB000027,Blood,Routine,Platelets,PLT,Platelets,2026-03-02T20:40:00,2026-03-02T21:15:00,Final,,228.0,228.0,10^9/L,145,390,Final,True,False
+E0005,ENT-0005,LAB000027,Blood,Routine,Potassium,K,Potassium,2026-03-02T20:40:00,2026-03-02T21:15:00,Final,,4.1,4.1,mmol/L,3.5,4.6,Final,True,False
+E0006,ENT-0006,LAB000028,Blood,Routine,C-reactive protein,CRP,CRP,2026-03-10T15:10:00,2026-03-10T15:45:00,Final,High,10.2,10.2,mg/L,0,10,Final,True,True
+E0006,ENT-0006,LAB000028,Blood,Routine,Creatinine,CREA,Creatinine,2026-03-10T15:10:00,2026-03-10T15:45:00,Final,,101.0,101.0,umol/L,45,105,Final,True,False
+E0006,ENT-0006,LAB000028,Blood,Routine,Glucose,GLU,Glucose,2026-03-10T15:10:00,2026-03-10T15:45:00,Final,High,16.4,16.4,mmol/L,4.0,7.8,Final,True,True
+E0006,ENT-0006,LAB000028,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-03-10T15:10:00,2026-03-10T15:45:00,Final,,8.3,8.3,mmol/L,7.3,10.5,Final,True,False
+E0006,ENT-0006,LAB000028,Blood,Routine,Lactate,LAC,Lactate,2026-03-10T15:10:00,2026-03-10T15:45:00,Final,,1.2,1.2,mmol/L,0.5,2.2,Final,True,False
+E0006,ENT-0006,LAB000028,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-03-10T15:10:00,2026-03-10T15:45:00,Final,,8.4,8.4,10^9/L,3.5,10.0,Final,True,False
+E0006,ENT-0006,LAB000028,Blood,Routine,Platelets,PLT,Platelets,2026-03-10T15:10:00,2026-03-10T15:45:00,Final,,244.0,244.0,10^9/L,145,390,Final,True,False
+E0006,ENT-0006,LAB000028,Blood,Routine,Potassium,K,Potassium,2026-03-10T15:10:00,2026-03-10T15:45:00,Final,High,4.8,4.8,mmol/L,3.5,4.6,Final,True,True
+E0006,ENT-0006,LAB000029,Blood,Routine,C-reactive protein,CRP,CRP,2026-03-11T03:10:00,2026-03-11T03:45:00,Final,,5.8,5.8,mg/L,0,10,Final,True,False
+E0006,ENT-0006,LAB000029,Blood,Routine,Creatinine,CREA,Creatinine,2026-03-11T03:10:00,2026-03-11T03:45:00,Final,,85.0,85.0,umol/L,45,105,Final,True,False
+E0006,ENT-0006,LAB000029,Blood,Routine,Glucose,GLU,Glucose,2026-03-11T03:10:00,2026-03-11T03:45:00,Final,High,13.5,13.5,mmol/L,4.0,7.8,Final,True,True
+E0006,ENT-0006,LAB000029,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-03-11T03:10:00,2026-03-11T03:45:00,Final,,8.0,8.0,mmol/L,7.3,10.5,Final,True,False
+E0006,ENT-0006,LAB000029,Blood,Routine,Lactate,LAC,Lactate,2026-03-11T03:10:00,2026-03-11T03:45:00,Final,,1.3,1.3,mmol/L,0.5,2.2,Final,True,False
+E0006,ENT-0006,LAB000029,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-03-11T03:10:00,2026-03-11T03:45:00,Final,,7.4,7.4,10^9/L,3.5,10.0,Final,True,False
+E0006,ENT-0006,LAB000029,Blood,Routine,Platelets,PLT,Platelets,2026-03-11T03:10:00,2026-03-11T03:45:00,Final,,231.0,231.0,10^9/L,145,390,Final,True,False
+E0006,ENT-0006,LAB000029,Blood,Routine,Potassium,K,Potassium,2026-03-11T03:10:00,2026-03-11T03:45:00,Final,,4.2,4.2,mmol/L,3.5,4.6,Final,True,False
+E0006,ENT-0006,LAB000030,Blood,Routine,C-reactive protein,CRP,CRP,2026-03-11T15:10:00,2026-03-11T15:45:00,Final,Low,-0.7,-0.7,mg/L,0,10,Final,True,True
+E0006,ENT-0006,LAB000030,Blood,Routine,Creatinine,CREA,Creatinine,2026-03-11T15:10:00,2026-03-11T15:45:00,Final,,85.0,85.0,umol/L,45,105,Final,True,False
+E0006,ENT-0006,LAB000030,Blood,Routine,Glucose,GLU,Glucose,2026-03-11T15:10:00,2026-03-11T15:45:00,Final,High,11.9,11.9,mmol/L,4.0,7.8,Final,True,True
+E0006,ENT-0006,LAB000030,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-03-11T15:10:00,2026-03-11T15:45:00,Final,,8.0,8.0,mmol/L,7.3,10.5,Final,True,False
+E0006,ENT-0006,LAB000030,Blood,Routine,Lactate,LAC,Lactate,2026-03-11T15:10:00,2026-03-11T15:45:00,Final,,1.3,1.3,mmol/L,0.5,2.2,Final,True,False
+E0006,ENT-0006,LAB000030,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-03-11T15:10:00,2026-03-11T15:45:00,Final,,8.2,8.2,10^9/L,3.5,10.0,Final,True,False
+E0006,ENT-0006,LAB000030,Blood,Routine,Platelets,PLT,Platelets,2026-03-11T15:10:00,2026-03-11T15:45:00,Final,,241.0,241.0,10^9/L,145,390,Final,True,False
+E0006,ENT-0006,LAB000030,Blood,Routine,Potassium,K,Potassium,2026-03-11T15:10:00,2026-03-11T15:45:00,Final,,4.5,4.5,mmol/L,3.5,4.6,Final,True,False
+E0006,ENT-0006,LAB000031,Blood,Routine,C-reactive protein,CRP,CRP,2026-03-12T03:10:00,2026-03-12T03:45:00,Final,,6.2,6.2,mg/L,0,10,Final,True,False
+E0006,ENT-0006,LAB000031,Blood,Routine,Creatinine,CREA,Creatinine,2026-03-12T03:10:00,2026-03-12T03:45:00,Final,,95.0,95.0,umol/L,45,105,Final,True,False
+E0006,ENT-0006,LAB000031,Blood,Routine,Glucose,GLU,Glucose,2026-03-12T03:10:00,2026-03-12T03:45:00,Final,High,9.8,9.8,mmol/L,4.0,7.8,Final,True,True
+E0006,ENT-0006,LAB000031,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-03-12T03:10:00,2026-03-12T03:45:00,Final,,8.2,8.2,mmol/L,7.3,10.5,Final,True,False
+E0006,ENT-0006,LAB000031,Blood,Routine,Lactate,LAC,Lactate,2026-03-12T03:10:00,2026-03-12T03:45:00,Final,,1.1,1.1,mmol/L,0.5,2.2,Final,True,False
+E0006,ENT-0006,LAB000031,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-03-12T03:10:00,2026-03-12T03:45:00,Final,,6.9,6.9,10^9/L,3.5,10.0,Final,True,False
+E0006,ENT-0006,LAB000031,Blood,Routine,Platelets,PLT,Platelets,2026-03-12T03:10:00,2026-03-12T03:45:00,Final,,226.0,226.0,10^9/L,145,390,Final,True,False
+E0006,ENT-0006,LAB000031,Blood,Routine,Potassium,K,Potassium,2026-03-12T03:10:00,2026-03-12T03:45:00,Final,,4.2,4.2,mmol/L,3.5,4.6,Final,True,False
+E0006,ENT-0006,LAB000032,Blood,Routine,C-reactive protein,CRP,CRP,2026-03-12T15:10:00,2026-03-12T15:45:00,Final,,2.5,2.5,mg/L,0,10,Final,True,False
+E0006,ENT-0006,LAB000032,Blood,Routine,Creatinine,CREA,Creatinine,2026-03-12T15:10:00,2026-03-12T15:45:00,Final,,91.0,91.0,umol/L,45,105,Final,True,False
+E0006,ENT-0006,LAB000032,Blood,Routine,Glucose,GLU,Glucose,2026-03-12T15:10:00,2026-03-12T15:45:00,Final,High,7.9,7.9,mmol/L,4.0,7.8,Final,True,True
+E0006,ENT-0006,LAB000032,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-03-12T15:10:00,2026-03-12T15:45:00,Final,,8.4,8.4,mmol/L,7.3,10.5,Final,True,False
+E0006,ENT-0006,LAB000032,Blood,Routine,Lactate,LAC,Lactate,2026-03-12T15:10:00,2026-03-12T15:45:00,Final,,1.2,1.2,mmol/L,0.5,2.2,Final,True,False
+E0006,ENT-0006,LAB000032,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-03-12T15:10:00,2026-03-12T15:45:00,Final,,7.6,7.6,10^9/L,3.5,10.0,Final,True,False
+E0006,ENT-0006,LAB000032,Blood,Routine,Platelets,PLT,Platelets,2026-03-12T15:10:00,2026-03-12T15:45:00,Final,,249.0,249.0,10^9/L,145,390,Final,True,False
+E0006,ENT-0006,LAB000032,Blood,Routine,Potassium,K,Potassium,2026-03-12T15:10:00,2026-03-12T15:45:00,Final,,4.3,4.3,mmol/L,3.5,4.6,Final,True,False
+E0007,ENT-0007,LAB000033,Blood,Routine,C-reactive protein,CRP,CRP,2026-03-21T21:15:00,2026-03-21T21:50:00,Final,Low,-4.3,-4.3,mg/L,0,10,Final,True,True
+E0007,ENT-0007,LAB000033,Blood,Routine,Creatinine,CREA,Creatinine,2026-03-21T21:15:00,2026-03-21T21:50:00,Final,,91.0,91.0,umol/L,45,105,Final,True,False
+E0007,ENT-0007,LAB000033,Blood,Routine,Glucose,GLU,Glucose,2026-03-21T21:15:00,2026-03-21T21:50:00,Final,,5.6,5.6,mmol/L,4.0,7.8,Final,True,False
+E0007,ENT-0007,LAB000033,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-03-21T21:15:00,2026-03-21T21:50:00,Final,,8.5,8.5,mmol/L,7.3,10.5,Final,True,False
+E0007,ENT-0007,LAB000033,Blood,Routine,Lactate,LAC,Lactate,2026-03-21T21:15:00,2026-03-21T21:50:00,Final,,1.2,1.2,mmol/L,0.5,2.2,Final,True,False
+E0007,ENT-0007,LAB000033,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-03-21T21:15:00,2026-03-21T21:50:00,Final,,6.4,6.4,10^9/L,3.5,10.0,Final,True,False
+E0007,ENT-0007,LAB000033,Blood,Routine,Platelets,PLT,Platelets,2026-03-21T21:15:00,2026-03-21T21:50:00,Final,,234.0,234.0,10^9/L,145,390,Final,True,False
+E0007,ENT-0007,LAB000033,Blood,Routine,Potassium,K,Potassium,2026-03-21T21:15:00,2026-03-21T21:50:00,Final,,3.9,3.9,mmol/L,3.5,4.6,Final,True,False
+E0007,ENT-0007,LAB000034,Blood,Routine,C-reactive protein,CRP,CRP,2026-03-22T09:15:00,2026-03-22T09:50:00,Final,High,14.0,14.0,mg/L,0,10,Final,True,True
+E0007,ENT-0007,LAB000034,Blood,Routine,Creatinine,CREA,Creatinine,2026-03-22T09:15:00,2026-03-22T09:50:00,Final,,90.0,90.0,umol/L,45,105,Final,True,False
+E0007,ENT-0007,LAB000034,Blood,Routine,Glucose,GLU,Glucose,2026-03-22T09:15:00,2026-03-22T09:50:00,Final,,6.9,6.9,mmol/L,4.0,7.8,Final,True,False
+E0007,ENT-0007,LAB000034,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-03-22T09:15:00,2026-03-22T09:50:00,Final,,8.4,8.4,mmol/L,7.3,10.5,Final,True,False
+E0007,ENT-0007,LAB000034,Blood,Routine,Lactate,LAC,Lactate,2026-03-22T09:15:00,2026-03-22T09:50:00,Final,,1.0,1.0,mmol/L,0.5,2.2,Final,True,False
+E0007,ENT-0007,LAB000034,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-03-22T09:15:00,2026-03-22T09:50:00,Final,,7.2,7.2,10^9/L,3.5,10.0,Final,True,False
+E0007,ENT-0007,LAB000034,Blood,Routine,Platelets,PLT,Platelets,2026-03-22T09:15:00,2026-03-22T09:50:00,Final,,235.0,235.0,10^9/L,145,390,Final,True,False
+E0007,ENT-0007,LAB000034,Blood,Routine,Potassium,K,Potassium,2026-03-22T09:15:00,2026-03-22T09:50:00,Final,,4.3,4.3,mmol/L,3.5,4.6,Final,True,False
+E0008,ENT-0008,LAB000035,Blood,Routine,C-reactive protein,CRP,CRP,2026-04-02T07:30:00,2026-04-02T08:05:00,Final,High,33.1,33.1,mg/L,0,10,Final,True,True
+E0008,ENT-0008,LAB000035,Blood,Routine,Creatinine,CREA,Creatinine,2026-04-02T07:30:00,2026-04-02T08:05:00,Final,High,242.0,242.0,umol/L,45,105,Final,True,True
+E0008,ENT-0008,LAB000035,Blood,Routine,Glucose,GLU,Glucose,2026-04-02T07:30:00,2026-04-02T08:05:00,Final,High,7.9,7.9,mmol/L,4.0,7.8,Final,True,True
+E0008,ENT-0008,LAB000035,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-04-02T07:30:00,2026-04-02T08:05:00,Final,,7.4,7.4,mmol/L,7.3,10.5,Final,True,False
+E0008,ENT-0008,LAB000035,Blood,Routine,Lactate,LAC,Lactate,2026-04-02T07:30:00,2026-04-02T08:05:00,Final,,1.8,1.8,mmol/L,0.5,2.2,Final,True,False
+E0008,ENT-0008,LAB000035,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-04-02T07:30:00,2026-04-02T08:05:00,Final,High,10.3,10.3,10^9/L,3.5,10.0,Final,True,True
+E0008,ENT-0008,LAB000035,Blood,Routine,Platelets,PLT,Platelets,2026-04-02T07:30:00,2026-04-02T08:05:00,Final,,210.0,210.0,10^9/L,145,390,Final,True,False
+E0008,ENT-0008,LAB000035,Blood,Routine,Potassium,K,Potassium,2026-04-02T07:30:00,2026-04-02T08:05:00,Final,High,5.2,5.2,mmol/L,3.5,4.6,Final,True,True
+E0008,ENT-0008,LAB000036,Blood,Routine,C-reactive protein,CRP,CRP,2026-04-02T19:30:00,2026-04-02T20:05:00,Final,High,25.4,25.4,mg/L,0,10,Final,True,True
+E0008,ENT-0008,LAB000036,Blood,Routine,Creatinine,CREA,Creatinine,2026-04-02T19:30:00,2026-04-02T20:05:00,Final,High,229.0,229.0,umol/L,45,105,Final,True,True
+E0008,ENT-0008,LAB000036,Blood,Routine,Glucose,GLU,Glucose,2026-04-02T19:30:00,2026-04-02T20:05:00,Final,High,8.0,8.0,mmol/L,4.0,7.8,Final,True,True
+E0008,ENT-0008,LAB000036,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-04-02T19:30:00,2026-04-02T20:05:00,Final,,7.8,7.8,mmol/L,7.3,10.5,Final,True,False
+E0008,ENT-0008,LAB000036,Blood,Routine,Lactate,LAC,Lactate,2026-04-02T19:30:00,2026-04-02T20:05:00,Final,,1.7,1.7,mmol/L,0.5,2.2,Final,True,False
+E0008,ENT-0008,LAB000036,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-04-02T19:30:00,2026-04-02T20:05:00,Final,High,10.7,10.7,10^9/L,3.5,10.0,Final,True,True
+E0008,ENT-0008,LAB000036,Blood,Routine,Platelets,PLT,Platelets,2026-04-02T19:30:00,2026-04-02T20:05:00,Final,,220.0,220.0,10^9/L,145,390,Final,True,False
+E0008,ENT-0008,LAB000036,Blood,Routine,Potassium,K,Potassium,2026-04-02T19:30:00,2026-04-02T20:05:00,Final,High,5.1,5.1,mmol/L,3.5,4.6,Final,True,True
+E0008,ENT-0008,LAB000037,Blood,Routine,C-reactive protein,CRP,CRP,2026-04-03T07:30:00,2026-04-03T08:05:00,Final,High,29.8,29.8,mg/L,0,10,Final,True,True
+E0008,ENT-0008,LAB000037,Blood,Routine,Creatinine,CREA,Creatinine,2026-04-03T07:30:00,2026-04-03T08:05:00,Final,High,206.0,206.0,umol/L,45,105,Final,True,True
+E0008,ENT-0008,LAB000037,Blood,Routine,Glucose,GLU,Glucose,2026-04-03T07:30:00,2026-04-03T08:05:00,Final,,6.8,6.8,mmol/L,4.0,7.8,Final,True,False
+E0008,ENT-0008,LAB000037,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-04-03T07:30:00,2026-04-03T08:05:00,Final,,7.9,7.9,mmol/L,7.3,10.5,Final,True,False
+E0008,ENT-0008,LAB000037,Blood,Routine,Lactate,LAC,Lactate,2026-04-03T07:30:00,2026-04-03T08:05:00,Final,,1.5,1.5,mmol/L,0.5,2.2,Final,True,False
+E0008,ENT-0008,LAB000037,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-04-03T07:30:00,2026-04-03T08:05:00,Final,,8.5,8.5,10^9/L,3.5,10.0,Final,True,False
+E0008,ENT-0008,LAB000037,Blood,Routine,Platelets,PLT,Platelets,2026-04-03T07:30:00,2026-04-03T08:05:00,Final,,228.0,228.0,10^9/L,145,390,Final,True,False
+E0008,ENT-0008,LAB000037,Blood,Routine,Potassium,K,Potassium,2026-04-03T07:30:00,2026-04-03T08:05:00,Final,High,4.8,4.8,mmol/L,3.5,4.6,Final,True,True
+E0008,ENT-0008,LAB000038,Blood,Routine,C-reactive protein,CRP,CRP,2026-04-03T19:30:00,2026-04-03T20:05:00,Final,High,17.9,17.9,mg/L,0,10,Final,True,True
+E0008,ENT-0008,LAB000038,Blood,Routine,Creatinine,CREA,Creatinine,2026-04-03T19:30:00,2026-04-03T20:05:00,Final,High,184.0,184.0,umol/L,45,105,Final,True,True
+E0008,ENT-0008,LAB000038,Blood,Routine,Glucose,GLU,Glucose,2026-04-03T19:30:00,2026-04-03T20:05:00,Final,,6.4,6.4,mmol/L,4.0,7.8,Final,True,False
+E0008,ENT-0008,LAB000038,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-04-03T19:30:00,2026-04-03T20:05:00,Final,,8.0,8.0,mmol/L,7.3,10.5,Final,True,False
+E0008,ENT-0008,LAB000038,Blood,Routine,Lactate,LAC,Lactate,2026-04-03T19:30:00,2026-04-03T20:05:00,Final,,1.4,1.4,mmol/L,0.5,2.2,Final,True,False
+E0008,ENT-0008,LAB000038,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-04-03T19:30:00,2026-04-03T20:05:00,Final,,9.9,9.9,10^9/L,3.5,10.0,Final,True,False
+E0008,ENT-0008,LAB000038,Blood,Routine,Platelets,PLT,Platelets,2026-04-03T19:30:00,2026-04-03T20:05:00,Final,,221.0,221.0,10^9/L,145,390,Final,True,False
+E0008,ENT-0008,LAB000038,Blood,Routine,Potassium,K,Potassium,2026-04-03T19:30:00,2026-04-03T20:05:00,Final,High,4.7,4.7,mmol/L,3.5,4.6,Final,True,True
+E0008,ENT-0008,LAB000039,Blood,Routine,C-reactive protein,CRP,CRP,2026-04-04T07:30:00,2026-04-04T08:05:00,Final,High,20.5,20.5,mg/L,0,10,Final,True,True
+E0008,ENT-0008,LAB000039,Blood,Routine,Creatinine,CREA,Creatinine,2026-04-04T07:30:00,2026-04-04T08:05:00,Final,High,154.0,154.0,umol/L,45,105,Final,True,True
+E0008,ENT-0008,LAB000039,Blood,Routine,Glucose,GLU,Glucose,2026-04-04T07:30:00,2026-04-04T08:05:00,Final,,6.4,6.4,mmol/L,4.0,7.8,Final,True,False
+E0008,ENT-0008,LAB000039,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-04-04T07:30:00,2026-04-04T08:05:00,Final,,8.2,8.2,mmol/L,7.3,10.5,Final,True,False
+E0008,ENT-0008,LAB000039,Blood,Routine,Lactate,LAC,Lactate,2026-04-04T07:30:00,2026-04-04T08:05:00,Final,,1.4,1.4,mmol/L,0.5,2.2,Final,True,False
+E0008,ENT-0008,LAB000039,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-04-04T07:30:00,2026-04-04T08:05:00,Final,,8.4,8.4,10^9/L,3.5,10.0,Final,True,False
+E0008,ENT-0008,LAB000039,Blood,Routine,Platelets,PLT,Platelets,2026-04-04T07:30:00,2026-04-04T08:05:00,Final,,241.0,241.0,10^9/L,145,390,Final,True,False
+E0008,ENT-0008,LAB000039,Blood,Routine,Potassium,K,Potassium,2026-04-04T07:30:00,2026-04-04T08:05:00,Final,,4.4,4.4,mmol/L,3.5,4.6,Final,True,False
+E0008,ENT-0008,LAB000040,Blood,Routine,C-reactive protein,CRP,CRP,2026-04-04T19:30:00,2026-04-04T20:05:00,Final,High,20.5,20.5,mg/L,0,10,Final,True,True
+E0008,ENT-0008,LAB000040,Blood,Routine,Creatinine,CREA,Creatinine,2026-04-04T19:30:00,2026-04-04T20:05:00,Final,High,133.0,133.0,umol/L,45,105,Final,True,True
+E0008,ENT-0008,LAB000040,Blood,Routine,Glucose,GLU,Glucose,2026-04-04T19:30:00,2026-04-04T20:05:00,Final,,6.1,6.1,mmol/L,4.0,7.8,Final,True,False
+E0008,ENT-0008,LAB000040,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-04-04T19:30:00,2026-04-04T20:05:00,Final,,7.8,7.8,mmol/L,7.3,10.5,Final,True,False
+E0008,ENT-0008,LAB000040,Blood,Routine,Lactate,LAC,Lactate,2026-04-04T19:30:00,2026-04-04T20:05:00,Final,,1.3,1.3,mmol/L,0.5,2.2,Final,True,False
+E0008,ENT-0008,LAB000040,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-04-04T19:30:00,2026-04-04T20:05:00,Final,,8.4,8.4,10^9/L,3.5,10.0,Final,True,False
+E0008,ENT-0008,LAB000040,Blood,Routine,Platelets,PLT,Platelets,2026-04-04T19:30:00,2026-04-04T20:05:00,Final,,251.0,251.0,10^9/L,145,390,Final,True,False
+E0008,ENT-0008,LAB000040,Blood,Routine,Potassium,K,Potassium,2026-04-04T19:30:00,2026-04-04T20:05:00,Final,,4.4,4.4,mmol/L,3.5,4.6,Final,True,False
+E0008,ENT-0008,LAB000041,Blood,Routine,C-reactive protein,CRP,CRP,2026-04-05T07:30:00,2026-04-05T08:05:00,Final,,1.7,1.7,mg/L,0,10,Final,True,False
+E0008,ENT-0008,LAB000041,Blood,Routine,Creatinine,CREA,Creatinine,2026-04-05T07:30:00,2026-04-05T08:05:00,Final,,101.0,101.0,umol/L,45,105,Final,True,False
+E0008,ENT-0008,LAB000041,Blood,Routine,Glucose,GLU,Glucose,2026-04-05T07:30:00,2026-04-05T08:05:00,Final,,5.6,5.6,mmol/L,4.0,7.8,Final,True,False
+E0008,ENT-0008,LAB000041,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-04-05T07:30:00,2026-04-05T08:05:00,Final,,8.1,8.1,mmol/L,7.3,10.5,Final,True,False
+E0008,ENT-0008,LAB000041,Blood,Routine,Lactate,LAC,Lactate,2026-04-05T07:30:00,2026-04-05T08:05:00,Final,,1.1,1.1,mmol/L,0.5,2.2,Final,True,False
+E0008,ENT-0008,LAB000041,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-04-05T07:30:00,2026-04-05T08:05:00,Final,,7.2,7.2,10^9/L,3.5,10.0,Final,True,False
+E0008,ENT-0008,LAB000041,Blood,Routine,Platelets,PLT,Platelets,2026-04-05T07:30:00,2026-04-05T08:05:00,Final,,216.0,216.0,10^9/L,145,390,Final,True,False
+E0008,ENT-0008,LAB000041,Blood,Routine,Potassium,K,Potassium,2026-04-05T07:30:00,2026-04-05T08:05:00,Final,,4.1,4.1,mmol/L,3.5,4.6,Final,True,False
+E0009,ENT-0001,LAB000042,Blood,Routine,C-reactive protein,CRP,CRP,2026-05-12T14:00:00,2026-05-12T14:35:00,Final,High,81.8,81.8,mg/L,0,10,Final,True,True
+E0009,ENT-0001,LAB000042,Blood,Routine,Creatinine,CREA,Creatinine,2026-05-12T14:00:00,2026-05-12T14:35:00,Final,,96.0,96.0,umol/L,45,105,Final,True,False
+E0009,ENT-0001,LAB000042,Blood,Routine,Glucose,GLU,Glucose,2026-05-12T14:00:00,2026-05-12T14:35:00,Final,,6.6,6.6,mmol/L,4.0,7.8,Final,True,False
+E0009,ENT-0001,LAB000042,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-05-12T14:00:00,2026-05-12T14:35:00,Final,,7.8,7.8,mmol/L,7.3,10.5,Final,True,False
+E0009,ENT-0001,LAB000042,Blood,Routine,Lactate,LAC,Lactate,2026-05-12T14:00:00,2026-05-12T14:35:00,Final,,1.7,1.7,mmol/L,0.5,2.2,Final,True,False
+E0009,ENT-0001,LAB000042,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-05-12T14:00:00,2026-05-12T14:35:00,Final,High,12.8,12.8,10^9/L,3.5,10.0,Final,True,True
+E0009,ENT-0001,LAB000042,Blood,Routine,Platelets,PLT,Platelets,2026-05-12T14:00:00,2026-05-12T14:35:00,Final,,221.0,221.0,10^9/L,145,390,Final,True,False
+E0009,ENT-0001,LAB000042,Blood,Routine,Potassium,K,Potassium,2026-05-12T14:00:00,2026-05-12T14:35:00,Final,,4.1,4.1,mmol/L,3.5,4.6,Final,True,False
+E0009,ENT-0001,LAB000043,Blood,Routine,C-reactive protein,CRP,CRP,2026-05-13T02:00:00,2026-05-13T02:35:00,Final,High,46.2,46.2,mg/L,0,10,Final,True,True
+E0009,ENT-0001,LAB000043,Blood,Routine,Creatinine,CREA,Creatinine,2026-05-13T02:00:00,2026-05-13T02:35:00,Final,,97.0,97.0,umol/L,45,105,Final,True,False
+E0009,ENT-0001,LAB000043,Blood,Routine,Glucose,GLU,Glucose,2026-05-13T02:00:00,2026-05-13T02:35:00,Final,,7.1,7.1,mmol/L,4.0,7.8,Final,True,False
+E0009,ENT-0001,LAB000043,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-05-13T02:00:00,2026-05-13T02:35:00,Final,,7.9,7.9,mmol/L,7.3,10.5,Final,True,False
+E0009,ENT-0001,LAB000043,Blood,Routine,Lactate,LAC,Lactate,2026-05-13T02:00:00,2026-05-13T02:35:00,Final,,1.5,1.5,mmol/L,0.5,2.2,Final,True,False
+E0009,ENT-0001,LAB000043,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-05-13T02:00:00,2026-05-13T02:35:00,Final,,9.3,9.3,10^9/L,3.5,10.0,Final,True,False
+E0009,ENT-0001,LAB000043,Blood,Routine,Platelets,PLT,Platelets,2026-05-13T02:00:00,2026-05-13T02:35:00,Final,,242.0,242.0,10^9/L,145,390,Final,True,False
+E0009,ENT-0001,LAB000043,Blood,Routine,Potassium,K,Potassium,2026-05-13T02:00:00,2026-05-13T02:35:00,Final,,4.1,4.1,mmol/L,3.5,4.6,Final,True,False
+E0009,ENT-0001,LAB000044,Blood,Routine,C-reactive protein,CRP,CRP,2026-05-13T14:00:00,2026-05-13T14:35:00,Final,,3.3,3.3,mg/L,0,10,Final,True,False
+E0009,ENT-0001,LAB000044,Blood,Routine,Creatinine,CREA,Creatinine,2026-05-13T14:00:00,2026-05-13T14:35:00,Final,,91.0,91.0,umol/L,45,105,Final,True,False
+E0009,ENT-0001,LAB000044,Blood,Routine,Glucose,GLU,Glucose,2026-05-13T14:00:00,2026-05-13T14:35:00,Final,,6.3,6.3,mmol/L,4.0,7.8,Final,True,False
+E0009,ENT-0001,LAB000044,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-05-13T14:00:00,2026-05-13T14:35:00,Final,,8.4,8.4,mmol/L,7.3,10.5,Final,True,False
+E0009,ENT-0001,LAB000044,Blood,Routine,Lactate,LAC,Lactate,2026-05-13T14:00:00,2026-05-13T14:35:00,Final,,0.9,0.9,mmol/L,0.5,2.2,Final,True,False
+E0009,ENT-0001,LAB000044,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-05-13T14:00:00,2026-05-13T14:35:00,Final,,9.3,9.3,10^9/L,3.5,10.0,Final,True,False
+E0009,ENT-0001,LAB000044,Blood,Routine,Platelets,PLT,Platelets,2026-05-13T14:00:00,2026-05-13T14:35:00,Final,,248.0,248.0,10^9/L,145,390,Final,True,False
+E0009,ENT-0001,LAB000044,Blood,Routine,Potassium,K,Potassium,2026-05-13T14:00:00,2026-05-13T14:35:00,Final,,4.0,4.0,mmol/L,3.5,4.6,Final,True,False
+E0010,ENT-0002,LAB000045,Blood,Routine,C-reactive protein,CRP,CRP,2026-06-07T10:50:00,2026-06-07T11:25:00,Final,High,122.9,122.9,mg/L,0,10,Final,True,True
+E0010,ENT-0002,LAB000045,Blood,Routine,Creatinine,CREA,Creatinine,2026-06-07T10:50:00,2026-06-07T11:25:00,Final,,102.0,102.0,umol/L,45,105,Final,True,False
+E0010,ENT-0002,LAB000045,Blood,Routine,Glucose,GLU,Glucose,2026-06-07T10:50:00,2026-06-07T11:25:00,Final,,7.4,7.4,mmol/L,4.0,7.8,Final,True,False
+E0010,ENT-0002,LAB000045,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-06-07T10:50:00,2026-06-07T11:25:00,Final,,7.8,7.8,mmol/L,7.3,10.5,Final,True,False
+E0010,ENT-0002,LAB000045,Blood,Routine,Lactate,LAC,Lactate,2026-06-07T10:50:00,2026-06-07T11:25:00,Final,,1.8,1.8,mmol/L,0.5,2.2,Final,True,False
+E0010,ENT-0002,LAB000045,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-06-07T10:50:00,2026-06-07T11:25:00,Final,High,14.5,14.5,10^9/L,3.5,10.0,Final,True,True
+E0010,ENT-0002,LAB000045,Blood,Routine,Platelets,PLT,Platelets,2026-06-07T10:50:00,2026-06-07T11:25:00,Final,,196.0,196.0,10^9/L,145,390,Final,True,False
+E0010,ENT-0002,LAB000045,Blood,Routine,Potassium,K,Potassium,2026-06-07T10:50:00,2026-06-07T11:25:00,Final,,3.9,3.9,mmol/L,3.5,4.6,Final,True,False
+E0010,ENT-0002,LAB000046,Blood,Routine,C-reactive protein,CRP,CRP,2026-06-07T22:50:00,2026-06-07T23:25:00,Final,High,104.1,104.1,mg/L,0,10,Final,True,True
+E0010,ENT-0002,LAB000046,Blood,Routine,Creatinine,CREA,Creatinine,2026-06-07T22:50:00,2026-06-07T23:25:00,Final,,102.0,102.0,umol/L,45,105,Final,True,False
+E0010,ENT-0002,LAB000046,Blood,Routine,Glucose,GLU,Glucose,2026-06-07T22:50:00,2026-06-07T23:25:00,Final,,7.3,7.3,mmol/L,4.0,7.8,Final,True,False
+E0010,ENT-0002,LAB000046,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-06-07T22:50:00,2026-06-07T23:25:00,Final,,7.8,7.8,mmol/L,7.3,10.5,Final,True,False
+E0010,ENT-0002,LAB000046,Blood,Routine,Lactate,LAC,Lactate,2026-06-07T22:50:00,2026-06-07T23:25:00,Final,,1.7,1.7,mmol/L,0.5,2.2,Final,True,False
+E0010,ENT-0002,LAB000046,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-06-07T22:50:00,2026-06-07T23:25:00,Final,High,12.8,12.8,10^9/L,3.5,10.0,Final,True,True
+E0010,ENT-0002,LAB000046,Blood,Routine,Platelets,PLT,Platelets,2026-06-07T22:50:00,2026-06-07T23:25:00,Final,,234.0,234.0,10^9/L,145,390,Final,True,False
+E0010,ENT-0002,LAB000046,Blood,Routine,Potassium,K,Potassium,2026-06-07T22:50:00,2026-06-07T23:25:00,Final,,4.1,4.1,mmol/L,3.5,4.6,Final,True,False
+E0010,ENT-0002,LAB000047,Blood,Routine,C-reactive protein,CRP,CRP,2026-06-08T10:50:00,2026-06-08T11:25:00,Final,High,70.3,70.3,mg/L,0,10,Final,True,True
+E0010,ENT-0002,LAB000047,Blood,Routine,Creatinine,CREA,Creatinine,2026-06-08T10:50:00,2026-06-08T11:25:00,Final,,100.0,100.0,umol/L,45,105,Final,True,False
+E0010,ENT-0002,LAB000047,Blood,Routine,Glucose,GLU,Glucose,2026-06-08T10:50:00,2026-06-08T11:25:00,Final,,7.1,7.1,mmol/L,4.0,7.8,Final,True,False
+E0010,ENT-0002,LAB000047,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-06-08T10:50:00,2026-06-08T11:25:00,Final,,7.9,7.9,mmol/L,7.3,10.5,Final,True,False
+E0010,ENT-0002,LAB000047,Blood,Routine,Lactate,LAC,Lactate,2026-06-08T10:50:00,2026-06-08T11:25:00,Final,,1.7,1.7,mmol/L,0.5,2.2,Final,True,False
+E0010,ENT-0002,LAB000047,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-06-08T10:50:00,2026-06-08T11:25:00,Final,High,12.1,12.1,10^9/L,3.5,10.0,Final,True,True
+E0010,ENT-0002,LAB000047,Blood,Routine,Platelets,PLT,Platelets,2026-06-08T10:50:00,2026-06-08T11:25:00,Final,,225.0,225.0,10^9/L,145,390,Final,True,False
+E0010,ENT-0002,LAB000047,Blood,Routine,Potassium,K,Potassium,2026-06-08T10:50:00,2026-06-08T11:25:00,Final,,4.1,4.1,mmol/L,3.5,4.6,Final,True,False
+E0010,ENT-0002,LAB000048,Blood,Routine,C-reactive protein,CRP,CRP,2026-06-08T22:50:00,2026-06-08T23:25:00,Final,High,63.6,63.6,mg/L,0,10,Final,True,True
+E0010,ENT-0002,LAB000048,Blood,Routine,Creatinine,CREA,Creatinine,2026-06-08T22:50:00,2026-06-08T23:25:00,Final,,87.0,87.0,umol/L,45,105,Final,True,False
+E0010,ENT-0002,LAB000048,Blood,Routine,Glucose,GLU,Glucose,2026-06-08T22:50:00,2026-06-08T23:25:00,Final,,6.6,6.6,mmol/L,4.0,7.8,Final,True,False
+E0010,ENT-0002,LAB000048,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-06-08T22:50:00,2026-06-08T23:25:00,Final,,8.2,8.2,mmol/L,7.3,10.5,Final,True,False
+E0010,ENT-0002,LAB000048,Blood,Routine,Lactate,LAC,Lactate,2026-06-08T22:50:00,2026-06-08T23:25:00,Final,,1.3,1.3,mmol/L,0.5,2.2,Final,True,False
+E0010,ENT-0002,LAB000048,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-06-08T22:50:00,2026-06-08T23:25:00,Final,High,10.9,10.9,10^9/L,3.5,10.0,Final,True,True
+E0010,ENT-0002,LAB000048,Blood,Routine,Platelets,PLT,Platelets,2026-06-08T22:50:00,2026-06-08T23:25:00,Final,,224.0,224.0,10^9/L,145,390,Final,True,False
+E0010,ENT-0002,LAB000048,Blood,Routine,Potassium,K,Potassium,2026-06-08T22:50:00,2026-06-08T23:25:00,Final,,4.2,4.2,mmol/L,3.5,4.6,Final,True,False
+E0010,ENT-0002,LAB000049,Blood,Routine,C-reactive protein,CRP,CRP,2026-06-09T10:50:00,2026-06-09T11:25:00,Final,High,22.5,22.5,mg/L,0,10,Final,True,True
+E0010,ENT-0002,LAB000049,Blood,Routine,Creatinine,CREA,Creatinine,2026-06-09T10:50:00,2026-06-09T11:25:00,Final,,79.0,79.0,umol/L,45,105,Final,True,False
+E0010,ENT-0002,LAB000049,Blood,Routine,Glucose,GLU,Glucose,2026-06-09T10:50:00,2026-06-09T11:25:00,Final,,6.0,6.0,mmol/L,4.0,7.8,Final,True,False
+E0010,ENT-0002,LAB000049,Blood,Routine,Hemoglobin,HGB,Hemoglobin,2026-06-09T10:50:00,2026-06-09T11:25:00,Final,,8.2,8.2,mmol/L,7.3,10.5,Final,True,False
+E0010,ENT-0002,LAB000049,Blood,Routine,Lactate,LAC,Lactate,2026-06-09T10:50:00,2026-06-09T11:25:00,Final,,1.3,1.3,mmol/L,0.5,2.2,Final,True,False
+E0010,ENT-0002,LAB000049,Blood,Routine,Leukocytes,WBC,Leukocytes,2026-06-09T10:50:00,2026-06-09T11:25:00,Final,,9.6,9.6,10^9/L,3.5,10.0,Final,True,False
+E0010,ENT-0002,LAB000049,Blood,Routine,Platelets,PLT,Platelets,2026-06-09T10:50:00,2026-06-09T11:25:00,Final,,205.0,205.0,10^9/L,145,390,Final,True,False
+E0010,ENT-0002,LAB000049,Blood,Routine,Potassium,K,Potassium,2026-06-09T10:50:00,2026-06-09T11:25:00,Final,,4.0,4.0,mmol/L,3.5,4.6,Final,True,False

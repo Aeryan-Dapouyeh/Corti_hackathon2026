@@ -1,0 +1,12 @@
+DiagnosisKey,EncounterKey,EnterpriseId,DiagnosisEpicId,Name,DiagnosisStartDate,DiagnosisEndDate,Type,SKSCode,IsActionDiagnosis
+DX000002,E0001,ENT-0001,DXE100002,"Sepsis, unspecified organism",2026-01-05,2026-01-08,Hospital diagnosis,DA419,True
+DX000001,E0001,ENT-0001,DXE100001,"Pneumonia, unspecified organism",2026-01-05,2026-01-08,Hospital diagnosis,DJ189,True
+DX000003,E0002,ENT-0002,DXE100003,"Urinary tract infection, site not specified",2026-01-16,2026-01-18,Hospital diagnosis,DN390,True
+DX000004,E0003,ENT-0003,DXE100004,"Heart failure, unspecified",2026-02-03,2026-02-07,Hospital diagnosis,DI509,True
+DX000005,E0004,ENT-0004,DXE100005,"Postprocedural infection, unspecified",2026-02-14,2026-02-16,Hospital diagnosis,DT819,True
+DX000006,E0005,ENT-0005,DXE100006,COPD with acute exacerbation,2026-02-28,2026-03-03,Hospital diagnosis,DJ441,True
+DX000007,E0006,ENT-0006,DXE100007,Type 2 diabetes mellitus without complications,2026-03-10,2026-03-12,Hospital diagnosis,DE119,True
+DX000008,E0007,ENT-0007,DXE100008,Syncope and collapse,2026-03-21,2026-03-22,Hospital diagnosis,DR559,True
+DX000009,E0008,ENT-0008,DXE100009,"Acute kidney failure, unspecified",2026-04-02,2026-04-05,Hospital diagnosis,DN179,True
+DX000010,E0009,ENT-0001,DXE100010,"Urinary tract infection, site not specified",2026-05-12,2026-05-13,Hospital diagnosis,DN390,True
+DX000011,E0010,ENT-0002,DXE100011,"Pneumonia, unspecified organism",2026-06-07,2026-06-09,Hospital diagnosis,DJ189,True

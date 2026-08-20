@@ -1,0 +1,872 @@
+{
+  "encounter": "E0001",
+  "tables": {
+    "Population.csv": [],
+    "Vitals.csv": [
+      {
+        "VitalsFlowsheetValueKey": "VFV-JRN-C480B7A6",
+        "EncounterKey": "E0001",
+        "EnterpriseId": "ENT-0001",
+        "StringValue": "38.3",
+        "NumericValue": "38.3",
+        "Unit": "C",
+        "MeasurementType": "Temperature",
+        "TakenInstant": "2026-01-12T12:00:00",
+        "IsAbnormal": "False",
+        "AbnormalType": ""
+      },
+      {
+        "VitalsFlowsheetValueKey": "VFV-JRN-4D3A9FBA",
+        "EncounterKey": "E0001",
+        "EnterpriseId": "ENT-0001",
+        "StringValue": "102",
+        "NumericValue": "102",
+        "Unit": "bpm",
+        "MeasurementType": "Pulse",
+        "TakenInstant": "2026-01-12T12:00:00",
+        "IsAbnormal": "False",
+        "AbnormalType": ""
+      },
+      {
+        "VitalsFlowsheetValueKey": "VFV-JRN-7A492121",
+        "EncounterKey": "E0001",
+        "EnterpriseId": "ENT-0001",
+        "StringValue": "134",
+        "NumericValue": "134",
+        "Unit": "mmHg",
+        "MeasurementType": "Systolic blood pressure",
+        "TakenInstant": "2026-01-12T12:00:00",
+        "IsAbnormal": "False",
+        "AbnormalType": ""
+      },
+      {
+        "VitalsFlowsheetValueKey": "VFV-JRN-B8E06DD4",
+        "EncounterKey": "E0001",
+        "EnterpriseId": "ENT-0001",
+        "StringValue": "78",
+        "NumericValue": "78",
+        "Unit": "mmHg",
+        "MeasurementType": "Diastolic blood pressure",
+        "TakenInstant": "2026-01-12T12:00:00",
+        "IsAbnormal": "False",
+        "AbnormalType": ""
+      },
+      {
+        "VitalsFlowsheetValueKey": "VFV-JRN-D8CB6427",
+        "EncounterKey": "E0001",
+        "EnterpriseId": "ENT-0001",
+        "StringValue": "22",
+        "NumericValue": "22",
+        "Unit": "breaths/min",
+        "MeasurementType": "Respiratory rate",
+        "TakenInstant": "2026-01-12T12:00:00",
+        "IsAbnormal": "False",
+        "AbnormalType": ""
+      },
+      {
+        "VitalsFlowsheetValueKey": "VFV-JRN-751EECA9",
+        "EncounterKey": "E0001",
+        "EnterpriseId": "ENT-0001",
+        "StringValue": "91",
+        "NumericValue": "91",
+        "Unit": "%",
+        "MeasurementType": "Oxygen saturation",
+        "TakenInstant": "2026-01-12T12:00:00",
+        "IsAbnormal": "False",
+        "AbnormalType": ""
+      },
+      {
+        "VitalsFlowsheetValueKey": "VFV-JRN-CDA18A02",
+        "EncounterKey": "E0001",
+        "EnterpriseId": "ENT-0001",
+        "StringValue": "38.1",
+        "NumericValue": "38.1",
+        "Unit": "C",
+        "MeasurementType": "Temperature",
+        "TakenInstant": "2026-01-12T12:00:00",
+        "IsAbnormal": "False",
+        "AbnormalType": ""
+      },
+      {
+        "VitalsFlowsheetValueKey": "VFV-JRN-F0E2A79A",
+        "EncounterKey": "E0001",
+        "EnterpriseId": "ENT-0001",
+        "StringValue": "98",
+        "NumericValue": "98",
+        "Unit": "bpm",
+        "MeasurementType": "Pulse",
+        "TakenInstant": "2026-01-12T12:00:00",
+        "IsAbnormal": "False",
+        "AbnormalType": ""
+      },
+      {
+        "VitalsFlowsheetValueKey": "VFV-JRN-6ECB2545",
+        "EncounterKey": "E0001",
+        "EnterpriseId": "ENT-0001",
+        "StringValue": "130",
+        "NumericValue": "130",
+        "Unit": "mmHg",
+        "MeasurementType": "Systolic blood pressure",
+        "TakenInstant": "2026-01-12T12:00:00",
+        "IsAbnormal": "False",
+        "AbnormalType": ""
+      },
+      {
+        "VitalsFlowsheetValueKey": "VFV-JRN-51CE1D40",
+        "EncounterKey": "E0001",
+        "EnterpriseId": "ENT-0001",
+        "StringValue": "75",
+        "NumericValue": "75",
+        "Unit": "mmHg",
+        "MeasurementType": "Diastolic blood pressure",
+        "TakenInstant": "2026-01-12T12:00:00",
+        "IsAbnormal": "False",
+        "AbnormalType": ""
+      },
+      {
+        "VitalsFlowsheetValueKey": "VFV-JRN-0B08E820",
+        "EncounterKey": "E0001",
+        "EnterpriseId": "ENT-0001",
+        "StringValue": "20",
+        "NumericValue": "20",
+        "Unit": "breaths/min",
+        "MeasurementType": "Respiratory rate",
+        "TakenInstant": "2026-01-12T12:00:00",
+        "IsAbnormal": "False",
+        "AbnormalType": ""
+      },
+      {
+        "VitalsFlowsheetValueKey": "VFV-JRN-9A88AA51",
+        "EncounterKey": "E0001",
+        "EnterpriseId": "ENT-0001",
+        "StringValue": "94",
+        "NumericValue": "94",
+        "Unit": "%",
+        "MeasurementType": "Oxygen saturation",
+        "TakenInstant": "2026-01-12T12:00:00",
+        "IsAbnormal": "False",
+        "AbnormalType": ""
+      },
+      {
+        "VitalsFlowsheetValueKey": "VFV-JRN-ABA4F588",
+        "EncounterKey": "E0001",
+        "EnterpriseId": "ENT-0001",
+        "StringValue": "37.2",
+        "NumericValue": "37.2",
+        "Unit": "C",
+        "MeasurementType": "Temperature",
+        "TakenInstant": "2026-01-12T12:00:00",
+        "IsAbnormal": "False",
+        "AbnormalType": ""
+      },
+      {
+        "VitalsFlowsheetValueKey": "VFV-JRN-A3ECF9E6",
+        "EncounterKey": "E0001",
+        "EnterpriseId": "ENT-0001",
+        "StringValue": "86",
+        "NumericValue": "86",
+        "Unit": "bpm",
+        "MeasurementType": "Pulse",
+        "TakenInstant": "2026-01-12T12:00:00",
+        "IsAbnormal": "False",
+        "AbnormalType": ""
+      }
+    ],
+    "Bloodtests.csv": [
+      {
+        "EncounterKey": "E0001",
+        "EnterpriseId": "ENT-0001",
+        "LabOrderEpicId": "LAB-JRN-A2763D3C",
+        "SpecimenType": "Blood",
+        "OrderType": "Journal extraction",
+        "ComponentName": "White Blood Cell Count",
+        "BaseName": "WBC",
+        "CommonName": "White Blood Cell Count",
+        "CollectionInstant": "2026-01-12T12:00:00",
+        "ResultInstant": "2026-01-12T12:00:00",
+        "ResultStatus": "Extracted",
+        "Flag": "High",
+        "Value": "Patient admitted from ED after evaluation for fever, productive cough, and hypoxia. Chest X-ray shows right lower lobe consolidation. Initial labs notable for elevated white blood cell count.",
+        "NumericValue": "",
+        "Unit": "",
+        "ReferenceValueLow": "",
+        "ReferenceValueHigh": "",
+        "FinalResultStatus": "Journal review",
+        "IsFinal": "False",
+        "IsAbnormal": "True"
+      },
+      {
+        "EncounterKey": "E0001",
+        "EnterpriseId": "ENT-0001",
+        "LabOrderEpicId": "LAB-JRN-E054ED68",
+        "SpecimenType": "Blood",
+        "OrderType": "Journal extraction",
+        "ComponentName": "Glucose",
+        "BaseName": "GLU",
+        "CommonName": "Glucose",
+        "CollectionInstant": "2026-01-12T12:00:00",
+        "ResultInstant": "2026-01-12T12:00:00",
+        "ResultStatus": "Extracted",
+        "Flag": "",
+        "Value": "Monitor blood glucose",
+        "NumericValue": "",
+        "Unit": "",
+        "ReferenceValueLow": "",
+        "ReferenceValueHigh": "",
+        "FinalResultStatus": "Journal review",
+        "IsFinal": "False",
+        "IsAbnormal": "False"
+      }
+    ],
+    "MedicationAdministrations.csv": [
+      {
+        "MedicationAdministrationKey": "MED-JRN-1431AEC2",
+        "EncounterKey": "E0001",
+        "EnterpriseId": "ENT-0001",
+        "MedicationName": "oxygen",
+        "ATCCode": "",
+        "Dose": "",
+        "DoseUnit": "",
+        "Route": "",
+        "AdministrationInstant": "2026-01-12T12:00:00",
+        "Status": "Planned from journal",
+        "Indication": "Extracted from patient journal"
+      },
+      {
+        "MedicationAdministrationKey": "MED-JRN-B97B40C9",
+        "EncounterKey": "E0001",
+        "EnterpriseId": "ENT-0001",
+        "MedicationName": "IV ceftriaxone and azithromycin",
+        "ATCCode": "",
+        "Dose": "",
+        "DoseUnit": "",
+        "Route": "IV",
+        "AdministrationInstant": "2026-01-12T12:00:00",
+        "Status": "Planned from journal",
+        "Indication": "Extracted from patient journal"
+      },
+      {
+        "MedicationAdministrationKey": "MED-JRN-0FBF6379",
+        "EncounterKey": "E0001",
+        "EnterpriseId": "ENT-0001",
+        "MedicationName": "IV ceftriaxone and azithromycin",
+        "ATCCode": "",
+        "Dose": "",
+        "DoseUnit": "",
+        "Route": "IV",
+        "AdministrationInstant": "2026-01-12T12:00:00",
+        "Status": "Planned from journal",
+        "Indication": "Extracted from patient journal"
+      }
+    ],
+    "Prescriptions.csv": [
+      {
+        "PrescriptionKey": "RX-JRN-F8FE5247",
+        "PatientDurableKey": "PDK-0001",
+        "EncounterKey": "E0001",
+        "EnterpriseId": "ENT-0001",
+        "Drug": "Metformin",
+        "ATCCode": "",
+        "Dose": "1000",
+        "DoseUnit": "mg",
+        "Route": "",
+        "Frequency": "twice daily",
+        "PrescriptionStartInstant": "2026-01-12T12:00:00",
+        "PrescriptionEndInstant": "",
+        "Status": "Extracted · needs review"
+      }
+    ],
+    "Flowsheet.csv": [
+      {
+        "EncounterKey": "E0001",
+        "EnterpriseId": "ENT-0001",
+        "FlowsheetRowEpicId": "FS-JRN-5243EB94",
+        "DisplayName": "Pain score",
+        "Value": "68-year-old male presents to the emergency department with 3 days of worsening shortness of breath, productive cough with yellow sputum, and fever up to 38.5 C at home. Reports fatigue and decreased appetite. Denies chest pain, hemoptysis, or recent travel.",
+        "NumericValue": "68",
+        "TakenInstant": "2026-01-12T12:00:00",
+        "IsAbnormal": "True"
+      }
+    ],
+    "Diagnosis.csv": []
+  },
+  "timeline": [
+    {
+      "id": "VFV-JRN-C480B7A6",
+      "encounterKey": "E0001",
+      "eventTime": "2026-01-12T12:00:00",
+      "sourceTable": "Vitals.csv",
+      "eventType": "Temperature",
+      "value": "38.3",
+      "unit": "C",
+      "isNew": true,
+      "isAbnormal": false
+    },
+    {
+      "id": "VFV-JRN-4D3A9FBA",
+      "encounterKey": "E0001",
+      "eventTime": "2026-01-12T12:00:00",
+      "sourceTable": "Vitals.csv",
+      "eventType": "Pulse",
+      "value": "102",
+      "unit": "bpm",
+      "isNew": true,
+      "isAbnormal": false
+    },
+    {
+      "id": "VFV-JRN-7A492121",
+      "encounterKey": "E0001",
+      "eventTime": "2026-01-12T12:00:00",
+      "sourceTable": "Vitals.csv",
+      "eventType": "Systolic blood pressure",
+      "value": "134",
+      "unit": "mmHg",
+      "isNew": true,
+      "isAbnormal": false
+    },
+    {
+      "id": "VFV-JRN-B8E06DD4",
+      "encounterKey": "E0001",
+      "eventTime": "2026-01-12T12:00:00",
+      "sourceTable": "Vitals.csv",
+      "eventType": "Diastolic blood pressure",
+      "value": "78",
+      "unit": "mmHg",
+      "isNew": true,
+      "isAbnormal": false
+    },
+    {
+      "id": "VFV-JRN-D8CB6427",
+      "encounterKey": "E0001",
+      "eventTime": "2026-01-12T12:00:00",
+      "sourceTable": "Vitals.csv",
+      "eventType": "Respiratory rate",
+      "value": "22",
+      "unit": "breaths/min",
+      "isNew": true,
+      "isAbnormal": false
+    },
+    {
+      "id": "VFV-JRN-751EECA9",
+      "encounterKey": "E0001",
+      "eventTime": "2026-01-12T12:00:00",
+      "sourceTable": "Vitals.csv",
+      "eventType": "Oxygen saturation",
+      "value": "91",
+      "unit": "%",
+      "isNew": true,
+      "isAbnormal": false
+    },
+    {
+      "id": "VFV-JRN-CDA18A02",
+      "encounterKey": "E0001",
+      "eventTime": "2026-01-12T12:00:00",
+      "sourceTable": "Vitals.csv",
+      "eventType": "Temperature",
+      "value": "38.1",
+      "unit": "C",
+      "isNew": true,
+      "isAbnormal": false
+    },
+    {
+      "id": "VFV-JRN-F0E2A79A",
+      "encounterKey": "E0001",
+      "eventTime": "2026-01-12T12:00:00",
+      "sourceTable": "Vitals.csv",
+      "eventType": "Pulse",
+      "value": "98",
+      "unit": "bpm",
+      "isNew": true,
+      "isAbnormal": false
+    },
+    {
+      "id": "VFV-JRN-6ECB2545",
+      "encounterKey": "E0001",
+      "eventTime": "2026-01-12T12:00:00",
+      "sourceTable": "Vitals.csv",
+      "eventType": "Systolic blood pressure",
+      "value": "130",
+      "unit": "mmHg",
+      "isNew": true,
+      "isAbnormal": false
+    },
+    {
+      "id": "VFV-JRN-51CE1D40",
+      "encounterKey": "E0001",
+      "eventTime": "2026-01-12T12:00:00",
+      "sourceTable": "Vitals.csv",
+      "eventType": "Diastolic blood pressure",
+      "value": "75",
+      "unit": "mmHg",
+      "isNew": true,
+      "isAbnormal": false
+    },
+    {
+      "id": "VFV-JRN-0B08E820",
+      "encounterKey": "E0001",
+      "eventTime": "2026-01-12T12:00:00",
+      "sourceTable": "Vitals.csv",
+      "eventType": "Respiratory rate",
+      "value": "20",
+      "unit": "breaths/min",
+      "isNew": true,
+      "isAbnormal": false
+    },
+    {
+      "id": "VFV-JRN-9A88AA51",
+      "encounterKey": "E0001",
+      "eventTime": "2026-01-12T12:00:00",
+      "sourceTable": "Vitals.csv",
+      "eventType": "Oxygen saturation",
+      "value": "94",
+      "unit": "%",
+      "isNew": true,
+      "isAbnormal": false
+    },
+    {
+      "id": "VFV-JRN-ABA4F588",
+      "encounterKey": "E0001",
+      "eventTime": "2026-01-12T12:00:00",
+      "sourceTable": "Vitals.csv",
+      "eventType": "Temperature",
+      "value": "37.2",
+      "unit": "C",
+      "isNew": true,
+      "isAbnormal": false
+    },
+    {
+      "id": "VFV-JRN-A3ECF9E6",
+      "encounterKey": "E0001",
+      "eventTime": "2026-01-12T12:00:00",
+      "sourceTable": "Vitals.csv",
+      "eventType": "Pulse",
+      "value": "86",
+      "unit": "bpm",
+      "isNew": true,
+      "isAbnormal": false
+    },
+    {
+      "id": "LAB-JRN-A2763D3C-White Blood Cell Count",
+      "encounterKey": "E0001",
+      "eventTime": "2026-01-12T12:00:00",
+      "sourceTable": "Bloodtests.csv",
+      "eventType": "White Blood Cell Count",
+      "value": "Patient admitted from ED after evaluation for fever, productive cough, and hypoxia. Chest X-ray shows right lower lobe consolidation. Initial labs notable for elevated white blood cell count.",
+      "unit": "",
+      "isNew": false,
+      "isAbnormal": true
+    },
+    {
+      "id": "LAB-JRN-E054ED68-Glucose",
+      "encounterKey": "E0001",
+      "eventTime": "2026-01-12T12:00:00",
+      "sourceTable": "Bloodtests.csv",
+      "eventType": "Glucose",
+      "value": "Monitor blood glucose",
+      "unit": "",
+      "isNew": false,
+      "isAbnormal": false
+    },
+    {
+      "id": "MED-JRN-1431AEC2",
+      "encounterKey": "E0001",
+      "eventTime": "2026-01-12T12:00:00",
+      "sourceTable": "MedicationAdministrations.csv",
+      "eventType": "oxygen",
+      "value": "Planned from journal",
+      "unit": "",
+      "isNew": true,
+      "isAbnormal": false
+    },
+    {
+      "id": "MED-JRN-B97B40C9",
+      "encounterKey": "E0001",
+      "eventTime": "2026-01-12T12:00:00",
+      "sourceTable": "MedicationAdministrations.csv",
+      "eventType": "IV ceftriaxone and azithromycin",
+      "value": "IV · Planned from journal",
+      "unit": "",
+      "isNew": true,
+      "isAbnormal": false
+    },
+    {
+      "id": "MED-JRN-0FBF6379",
+      "encounterKey": "E0001",
+      "eventTime": "2026-01-12T12:00:00",
+      "sourceTable": "MedicationAdministrations.csv",
+      "eventType": "IV ceftriaxone and azithromycin",
+      "value": "IV · Planned from journal",
+      "unit": "",
+      "isNew": true,
+      "isAbnormal": false
+    },
+    {
+      "id": "RX-JRN-F8FE5247",
+      "encounterKey": "E0001",
+      "eventTime": "2026-01-12T12:00:00",
+      "sourceTable": "Prescriptions.csv",
+      "eventType": "Metformin",
+      "value": "1000 · mg · twice daily",
+      "unit": "",
+      "isNew": true,
+      "isAbnormal": false
+    },
+    {
+      "id": "FS-JRN-5243EB94",
+      "encounterKey": "E0001",
+      "eventTime": "2026-01-12T12:00:00",
+      "sourceTable": "Flowsheet.csv",
+      "eventType": "Pain score",
+      "value": "68-year-old male presents to the emergency department with 3 days of worsening shortness of breath, productive cough with yellow sputum, and fever up to 38.5 C at home. Reports fatigue and decreased appetite. Denies chest pain, hemoptysis, or recent travel.",
+      "unit": "",
+      "isNew": true,
+      "isAbnormal": true
+    }
+  ],
+  "extractedFacts": [
+    {
+      "group": "clinical-observation",
+      "text": "Chief Complaint: Shortness of breath and fever.",
+      "value": "Chief Complaint: Shortness of breath and fever.",
+      "destination": "FactSheet",
+      "status": "Unmapped"
+    },
+    {
+      "group": "clinical-observation",
+      "text": "68-year-old male presents to the emergency department with 3 days of worsening shortness of breath, productive cough with yellow sputum, and fever up to 38.5 C at home. Reports fatigue and decreased appetite. Denies chest pain, hemoptysis, or recent travel.",
+      "value": "68-year-old male presents to the emergency department with 3 days of worsening shortness of breath, productive cough with yellow sputum, and fever up to 38.5 C at home. Reports fatigue and decreased appetite. Denies chest pain, hemoptysis, or recent travel.",
+      "destination": "Flowsheet.csv",
+      "status": "Entered into Flowsheet"
+    },
+    {
+      "group": "clinical-observation",
+      "text": "Hypertension",
+      "value": "Hypertension",
+      "destination": "FactSheet",
+      "status": "Unmapped"
+    },
+    {
+      "group": "clinical-observation",
+      "text": "Type 2 diabetes mellitus",
+      "value": "Type 2 diabetes mellitus",
+      "destination": "FactSheet",
+      "status": "Unmapped"
+    },
+    {
+      "group": "clinical-observation",
+      "text": "Chronic obstructive pulmonary disease (COPD)",
+      "value": "Chronic obstructive pulmonary disease (COPD)",
+      "destination": "FactSheet",
+      "status": "Unmapped"
+    },
+    {
+      "group": "medications",
+      "text": "Medications:",
+      "value": "Medications:",
+      "destination": "FactSheet",
+      "status": "Unmapped"
+    },
+    {
+      "group": "medications",
+      "text": "Metformin 1000 mg twice daily",
+      "value": "Metformin 1000 mg twice daily",
+      "destination": "Prescriptions.csv",
+      "status": "Entered into Prescriptions"
+    },
+    {
+      "group": "medications",
+      "text": "Lisinopril 10 mg daily",
+      "value": "Lisinopril 10 mg daily",
+      "destination": "FactSheet",
+      "status": "Unmapped"
+    },
+    {
+      "group": "medications",
+      "text": "Tiotropium inhaler daily",
+      "value": "Tiotropium inhaler daily",
+      "destination": "FactSheet",
+      "status": "Unmapped"
+    },
+    {
+      "group": "vitals",
+      "text": "Temperature: 38.3 C",
+      "value": "Temperature: 38.3 C",
+      "destination": "Vitals.csv",
+      "status": "Entered into Vitals"
+    },
+    {
+      "group": "vitals",
+      "text": "Heart rate: 102 bpm",
+      "value": "Heart rate: 102 bpm",
+      "destination": "Vitals.csv",
+      "status": "Entered into Vitals"
+    },
+    {
+      "group": "vitals",
+      "text": "Blood pressure: 134/78 mmHg",
+      "value": "Blood pressure: 134/78 mmHg",
+      "destination": "Vitals.csv",
+      "status": "Entered into Vitals"
+    },
+    {
+      "group": "vitals",
+      "text": "Respiratory rate: 22/min",
+      "value": "Respiratory rate: 22/min",
+      "destination": "Vitals.csv",
+      "status": "Entered into Vitals"
+    },
+    {
+      "group": "vitals",
+      "text": "Oxygen saturation: 91% on room air",
+      "value": "Oxygen saturation: 91% on room air",
+      "destination": "Vitals.csv",
+      "status": "Entered into Vitals"
+    },
+    {
+      "group": "clinical-observation",
+      "text": "Exam notable for crackles in the right lower lung field.",
+      "value": "Exam notable for crackles in the right lower lung field.",
+      "destination": "FactSheet",
+      "status": "Unmapped"
+    },
+    {
+      "group": "clinical-observation",
+      "text": "Suspected community-acquired pneumonia with mild hypoxia.",
+      "value": "Suspected community-acquired pneumonia with mild hypoxia.",
+      "destination": "FactSheet",
+      "status": "Unmapped"
+    },
+    {
+      "group": "clinical-observation",
+      "text": "Start oxygen via nasal cannula",
+      "value": "Start oxygen via nasal cannula",
+      "destination": "MedicationAdministrations.csv",
+      "status": "Entered into MedicationAdministrations"
+    },
+    {
+      "group": "medications",
+      "text": "Start IV ceftriaxone and azithromycin",
+      "value": "Start IV ceftriaxone and azithromycin",
+      "destination": "MedicationAdministrations.csv",
+      "status": "Entered into MedicationAdministrations"
+    },
+    {
+      "group": "clinical-observation",
+      "text": "Management of community-acquired pneumonia and hypoxia.",
+      "value": "Management of community-acquired pneumonia and hypoxia.",
+      "destination": "FactSheet",
+      "status": "Unmapped"
+    },
+    {
+      "group": "laboratory",
+      "text": "Patient admitted from ED after evaluation for fever, productive cough, and hypoxia. Chest X-ray shows right lower lobe consolidation. Initial labs notable for elevated white blood cell count.",
+      "value": "Patient admitted from ED after evaluation for fever, productive cough, and hypoxia. Chest X-ray shows right lower lobe consolidation. Initial labs notable for elevated white blood cell count.",
+      "destination": "Bloodtests.csv",
+      "status": "Entered into Bloodtests"
+    },
+    {
+      "group": "vitals",
+      "text": "Temperature: 38.1 C",
+      "value": "Temperature: 38.1 C",
+      "destination": "Vitals.csv",
+      "status": "Entered into Vitals"
+    },
+    {
+      "group": "vitals",
+      "text": "Heart rate: 98 bpm",
+      "value": "Heart rate: 98 bpm",
+      "destination": "Vitals.csv",
+      "status": "Entered into Vitals"
+    },
+    {
+      "group": "vitals",
+      "text": "Blood pressure: 130/75 mmHg",
+      "value": "Blood pressure: 130/75 mmHg",
+      "destination": "Vitals.csv",
+      "status": "Entered into Vitals"
+    },
+    {
+      "group": "vitals",
+      "text": "Respiratory rate: 20/min",
+      "value": "Respiratory rate: 20/min",
+      "destination": "Vitals.csv",
+      "status": "Entered into Vitals"
+    },
+    {
+      "group": "vitals",
+      "text": "Oxygen saturation: 94% on 2 L nasal cannula",
+      "value": "Oxygen saturation: 94% on 2 L nasal cannula",
+      "destination": "Vitals.csv",
+      "status": "Entered into Vitals"
+    },
+    {
+      "group": "clinical-observation",
+      "text": "Lungs: crackles at right base.",
+      "value": "Lungs: crackles at right base.",
+      "destination": "FactSheet",
+      "status": "Unmapped"
+    },
+    {
+      "group": "clinical-observation",
+      "text": "Community-acquired pneumonia, right lower lobe.",
+      "value": "Community-acquired pneumonia, right lower lobe.",
+      "destination": "FactSheet",
+      "status": "Unmapped"
+    },
+    {
+      "group": "clinical-observation",
+      "text": "COPD with mild exacerbation.",
+      "value": "COPD with mild exacerbation.",
+      "destination": "FactSheet",
+      "status": "Unmapped"
+    },
+    {
+      "group": "clinical-observation",
+      "text": "Type 2 diabetes mellitus.",
+      "value": "Type 2 diabetes mellitus.",
+      "destination": "FactSheet",
+      "status": "Unmapped"
+    },
+    {
+      "group": "medications",
+      "text": "Continue IV ceftriaxone and azithromycin",
+      "value": "Continue IV ceftriaxone and azithromycin",
+      "destination": "MedicationAdministrations.csv",
+      "status": "Entered into MedicationAdministrations"
+    },
+    {
+      "group": "clinical-observation",
+      "text": "Oxygen therapy to maintain saturation >92%",
+      "value": "Oxygen therapy to maintain saturation >92%",
+      "destination": "FactSheet",
+      "status": "Unmapped"
+    },
+    {
+      "group": "laboratory",
+      "text": "Monitor blood glucose",
+      "value": "Monitor blood glucose",
+      "destination": "Bloodtests.csv",
+      "status": "Entered into Bloodtests"
+    },
+    {
+      "group": "clinical-observation",
+      "text": "Patient reports improvement in breathing. Cough persists but sputum decreased. No fever since yesterday.",
+      "value": "Patient reports improvement in breathing. Cough persists but sputum decreased. No fever since yesterday.",
+      "destination": "FactSheet",
+      "status": "Unmapped"
+    },
+    {
+      "group": "vitals",
+      "text": "Temperature: 37.2 C",
+      "value": "Temperature: 37.2 C",
+      "destination": "Vitals.csv",
+      "status": "Entered into Vitals"
+    },
+    {
+      "group": "vitals",
+      "text": "Heart rate: 86 bpm",
+      "value": "Heart rate: 86 bpm",
+      "destination": "Vitals.csv",
+      "status": "Entered into Vitals"
+    }
+  ],
+  "codes": [],
+  "factSheet": [
+    {
+      "group": "clinical-observation",
+      "text": "Chief Complaint: Shortness of breath and fever.",
+      "value": "Chief Complaint: Shortness of breath and fever.",
+      "route": "Unmapped"
+    },
+    {
+      "group": "clinical-observation",
+      "text": "Hypertension",
+      "value": "Hypertension",
+      "route": "Unmapped"
+    },
+    {
+      "group": "clinical-observation",
+      "text": "Type 2 diabetes mellitus",
+      "value": "Type 2 diabetes mellitus",
+      "route": "Unmapped"
+    },
+    {
+      "group": "clinical-observation",
+      "text": "Chronic obstructive pulmonary disease (COPD)",
+      "value": "Chronic obstructive pulmonary disease (COPD)",
+      "route": "Unmapped"
+    },
+    {
+      "group": "medications",
+      "text": "Medications:",
+      "value": "Medications:",
+      "route": "Unmapped"
+    },
+    {
+      "group": "medications",
+      "text": "Lisinopril 10 mg daily",
+      "value": "Lisinopril 10 mg daily",
+      "route": "Unmapped"
+    },
+    {
+      "group": "medications",
+      "text": "Tiotropium inhaler daily",
+      "value": "Tiotropium inhaler daily",
+      "route": "Unmapped"
+    },
+    {
+      "group": "clinical-observation",
+      "text": "Exam notable for crackles in the right lower lung field.",
+      "value": "Exam notable for crackles in the right lower lung field.",
+      "route": "Unmapped"
+    },
+    {
+      "group": "clinical-observation",
+      "text": "Suspected community-acquired pneumonia with mild hypoxia.",
+      "value": "Suspected community-acquired pneumonia with mild hypoxia.",
+      "route": "Unmapped"
+    },
+    {
+      "group": "clinical-observation",
+      "text": "Management of community-acquired pneumonia and hypoxia.",
+      "value": "Management of community-acquired pneumonia and hypoxia.",
+      "route": "Unmapped"
+    },
+    {
+      "group": "clinical-observation",
+      "text": "Lungs: crackles at right base.",
+      "value": "Lungs: crackles at right base.",
+      "route": "Unmapped"
+    },
+    {
+      "group": "clinical-observation",
+      "text": "Community-acquired pneumonia, right lower lobe.",
+      "value": "Community-acquired pneumonia, right lower lobe.",
+      "route": "Unmapped"
+    },
+    {
+      "group": "clinical-observation",
+      "text": "COPD with mild exacerbation.",
+      "value": "COPD with mild exacerbation.",
+      "route": "Unmapped"
+    },
+    {
+      "group": "clinical-observation",
+      "text": "Type 2 diabetes mellitus.",
+      "value": "Type 2 diabetes mellitus.",
+      "route": "Unmapped"
+    },
+    {
+      "group": "clinical-observation",
+      "text": "Oxygen therapy to maintain saturation >92%",
+      "value": "Oxygen therapy to maintain saturation >92%",
+      "route": "Unmapped"
+    },
+    {
+      "group": "clinical-observation",
+      "text": "Patient reports improvement in breathing. Cough persists but sputum decreased. No fever since yesterday.",
+      "value": "Patient reports improvement in breathing. Cough persists but sputum decreased. No fever since yesterday.",
+      "route": "Unmapped"
+    }
+  ]
+}

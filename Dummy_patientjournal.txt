@@ -1,0 +1,116 @@
+<ED_NOTE>
+Date: 2026-01-12
+
+Chief Complaint: Shortness of breath and fever.
+
+History of Present Illness:
+68-year-old male presents to the emergency department with 3 days of worsening shortness of breath, productive cough with yellow sputum, and fever up to 38.5 C at home. Reports fatigue and decreased appetite. Denies chest pain, hemoptysis, or recent travel.
+
+Past Medical History:
+- Hypertension
+- Type 2 diabetes mellitus
+- Chronic obstructive pulmonary disease (COPD)
+
+Medications:
+- Metformin 1000 mg twice daily
+- Lisinopril 10 mg daily
+- Tiotropium inhaler daily
+
+Physical Exam:
+Temperature: 38.3 C
+Heart rate: 102 bpm
+Blood pressure: 134/78 mmHg
+Respiratory rate: 22/min
+Oxygen saturation: 91% on room air
+
+Exam notable for crackles in the right lower lung field.
+
+ED Assessment:
+Suspected community-acquired pneumonia with mild hypoxia.
+
+ED Plan:
+- Start oxygen via nasal cannula
+- Start IV ceftriaxone and azithromycin
+- Obtain labs and chest X-ray
+- Admit to internal medicine service
+</ED_NOTE>
+
+<ADMISSION_NOTE>
+Date: 2026-01-12
+
+Reason for Admission:
+Management of community-acquired pneumonia and hypoxia.
+
+Admission Summary:
+Patient admitted from ED after evaluation for fever, productive cough, and hypoxia. Chest X-ray shows right lower lobe consolidation. Initial labs notable for elevated white blood cell count.
+
+Physical Exam on Admission:
+Temperature: 38.1 C
+Heart rate: 98 bpm
+Blood pressure: 130/75 mmHg
+Respiratory rate: 20/min
+Oxygen saturation: 94% on 2 L nasal cannula
+
+Lungs: crackles at right base.
+
+Assessment:
+Community-acquired pneumonia, right lower lobe.
+COPD with mild exacerbation.
+Type 2 diabetes mellitus.
+
+Plan:
+- Continue IV ceftriaxone and azithromycin
+- Oxygen therapy to maintain saturation >92%
+- Bronchodilator therapy as needed
+- Monitor blood glucose
+- Daily labs
+</ADMISSION_NOTE>
+
+<PROGRESS_NOTE>
+Date: 2026-01-14
+
+Hospital Day: 3
+
+Subjective:
+Patient reports improvement in breathing. Cough persists but sputum decreased. No fever since yesterday.
+
+Objective:
+Temperature: 37.2 C
+Heart rate: 86 bpm
+Blood pressure: 128/72 mmHg
+Oxygen saturation: 95% on 2 L oxygen
+
+Lungs: improved breath sounds, mild residual crackles.
+
+Assessment:
+Community-acquired pneumonia improving with antibiotics.
+
+Plan:
+- Continue antibiotics
+- Begin transition to oral antibiotics tomorrow if stable
+- Continue oxygen weaning
+</PROGRESS_NOTE>
+
+<NURSING_NOTE>
+Date: 2026-01-14
+Time: 08:30
+
+Patient awake and oriented. Reports mild fatigue but breathing improved. Oxygen saturation 95% on 2 L nasal cannula. Patient able to ambulate short distance to bathroom with minimal assistance. No complaints of chest pain. Appetite improved; ate approximately 75% of breakfast. IV antibiotics administered as scheduled. No acute distress observed.
+</NURSING_NOTE>
+
+<LAB_REPORT>
+Date: 2026-01-12
+
+Test Results:
+White Blood Cell Count: 14.8 x10^9/L (elevated)
+Hemoglobin: 13.2 g/dL
+Platelets: 245 x10^9/L
+Sodium: 138 mmol/L
+Potassium: 4.2 mmol/L
+Creatinine: 1.0 mg/dL
+Glucose: 178 mg/dL
+C-reactive protein: 86 mg/L (elevated)
+
+Interpretation:
+Leukocytosis and elevated inflammatory markers consistent with infection.
+</LAB_REPORT>
